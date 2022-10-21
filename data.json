@@ -11,11 +11,6 @@
             "price": "48.999,00 TL"
         },
         {
-            "where": "www.gaming.gen.tr",
-            "name": "ASUS TUF GeForce RTX 4090 24GB OC GDDR6X 384 Bit Ekran Kartı",
-            "price": "49.299,00 ₺"
-        },
-        {
             "where": "www.gamegaraj.com",
             "name": "ASUS TUF RTX4090 O24G GAMING 384 bit",
             "price": "48,999 TL"
@@ -74,6 +69,11 @@
             "where": "www.itopya.com",
             "name": "MSI GeForce RTX 4090 GAMING X TRIO 24G 24GB GDDR6X 384 Bit Ekran Kartı",
             "price": "49.699,00"
+        },
+        {
+            "where": "www.itopya.com",
+            "name": "MSI GeForce RTX 4090 SUPRIM LIQUID X 24G 24GB GDDR6X 384 Bit Ekran Kartı",
+            "price": "54.088,25"
         },
         {
             "where": "www.gamegaraj.com",
