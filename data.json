@@ -6,11 +6,6 @@
             "price": "49.299,00 ₺"
         },
         {
-            "where": "www.gamegaraj.com",
-            "name": "ASUS TUF RTX4090 O24G GAMING 384 bit",
-            "price": "48,999 TL"
-        },
-        {
             "where": "www.dfsbilgisayar.com",
             "name": "Colorful GeForce RTX4090 NB EX-V 24GB GDDR6X 384Bit Ekran Kartı",
             "price": "40,115.99 TL"
@@ -74,6 +69,11 @@
             "where": "www.jumbum.com",
             "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X 3x DP, HDMI Ekran Kartı",
             "price": "41.262,24 TL"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "ZOTAC GeForce RTX 4090 AMP EXTREME AIRO 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
+            "price": "45.019"
         },
         {
             "where": "www.sinerji.gen.tr",
