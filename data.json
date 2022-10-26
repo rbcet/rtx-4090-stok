@@ -46,6 +46,11 @@
             "price": "51.999,00"
         },
         {
+            "where": "www.vatanbilgisayar.com",
+            "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
+            "price": "54.908"
+        },
+        {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4090 WindForce 24G GV-N4090WF3-24GD 24GB GDDR6X 384Bit DX12 Gaming (Oyuncu) Ekran Kartı",
             "price": "46.363,81 TL"
@@ -69,6 +74,11 @@
             "where": "www.itopya.com",
             "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384 Bit Ekran Kartı",
             "price": "48.499,00"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
+            "price": "50.843"
         },
         {
             "where": "www.jumbum.com",
