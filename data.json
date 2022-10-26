@@ -2,11 +2,6 @@
     "products": [
         {
             "where": "www.sinerji.gen.tr",
-            "name": "Asus GeForce RTX 4090 Rog Strix O24G Gaming 24GB GDDR6X 384 Bit Ekran Kartı",
-            "price": "₺51.238"
-        },
-        {
-            "where": "www.sinerji.gen.tr",
             "name": "Asus GeForce RTX 4090 TUF Gaming O24G 24GB GDDR6X 384 Bit Ekran Kartı",
             "price": "₺47.046"
         },
@@ -91,11 +86,6 @@
             "price": "47.999"
         },
         {
-            "where": "www.jumbum.com",
-            "name": "Inno3D RTX4090 ICHILL x3 24GB 384Bit GDDR6X Ekran Kartı",
-            "price": "39.506,40 TL"
-        },
-        {
             "where": "www.vatanbilgisayar.com",
             "name": "MSI GeForce RTX 4090 GAMING TRIO 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
             "price": "46.197"
@@ -118,7 +108,7 @@
         {
             "where": "www.jumbum.com",
             "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X 3x DP, HDMI Ekran Kartı",
-            "price": "41.262,24 TL"
+            "price": "41.481,72 TL"
         },
         {
             "where": "www.vatanbilgisayar.com",
