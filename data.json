@@ -1,11 +1,6 @@
 {
     "products": [
         {
-            "where": "www.tebilon.com",
-            "name": "ASUS GeForce TUF RTX 4090 GAMING O.C. 24GB GDDR6X 384Bit Nvidia Ekran Kartı",
-            "price": "49.130 TL"
-        },
-        {
             "where": "www.vatanbilgisayar.com",
             "name": "ASUS GeForce TUF RTX 4090 GAMING OC 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
             "price": "49.030"
