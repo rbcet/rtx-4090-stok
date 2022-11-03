@@ -41,6 +41,11 @@
             "price": "42.469,38 TL"
         },
         {
+            "where": "www.qp.com.tr",
+            "name": "Gigabyte GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384 Bit Ekran Kartı",
+            "price": "47.999,00 TL"
+        },
+        {
             "where": "www.itopya.com",
             "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384 Bit Ekran Kartı",
             "price": "48.116,77"
@@ -49,6 +54,11 @@
             "where": "www.vatanbilgisayar.com",
             "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
             "price": "50.843"
+        },
+        {
+            "where": "www.dfsbilgisayar.com",
+            "name": "MSI GeForce RTX 4090 Gaming X Trio 24G 24GB GDDR6X 384 Bit Ekran Kartı",
+            "price": "45,531.51 TL"
         },
         {
             "where": "www.jumbum.com",
@@ -74,6 +84,11 @@
             "where": "pckolik.com",
             "name": "Zotac GeForce RTX 4090 Gaming AMP Extreme AIRO 24GB GDDR6X 384 Bit Ekran Kartı",
             "price": "44,999.00₺"
+        },
+        {
+            "where": "www.dfsbilgisayar.com",
+            "name": "ZOTAC GeForce RTX 4090 Gaming AMP Extreme AIRO 24GB GDDR6X 384 Bit Ekran Kartı",
+            "price": "43,458.99 TL"
         }
     ],
     "links": [
