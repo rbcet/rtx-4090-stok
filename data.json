@@ -1,11 +1,6 @@
 {
     "products": [
         {
-            "where": "www.qp.com.tr",
-            "name": "Asus TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X 384 Bit Ekran Kartı",
-            "price": "48.999,01 TL"
-        },
-        {
             "where": "pckolik.com",
             "name": "ASUS TUF GEFORCE RTX 4090 24GB OC GDDR6X 384 BIT EKRAN KARTI",
             "price": "48,999.00₺"
