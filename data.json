@@ -58,6 +58,11 @@
     ],
     "rtx4080": [
         {
+            "where": "www.sinerji.gen.tr",
+            "name": "Asus GeForce RTX 4080 TUF Gaming O16G 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "₺35.168"
+        },
+        {
             "where": "www.qp.com.tr",
             "name": "Gigabyte GeForce RTX 4080 AERO OC 16GB GDDR6X 256 Bit Ekran Kartı",
             "price": "38.999,01 TL"
