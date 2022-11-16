@@ -46,11 +46,6 @@
             "price": "42.469,38 TL"
         },
         {
-            "where": "www.gamegaraj.com",
-            "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X",
-            "price": "43,999 TL"
-        },
-        {
             "where": "www.jumbum.com",
             "name": "ZOTAC GAMING GeForce RTX 4090 AMP EXTREME AIRO 24GB Ekran Kartı",
             "price": "49.383,00 TL"
@@ -62,6 +57,26 @@
         }
     ],
     "rtx4080": [
+        {
+            "where": "www.qp.com.tr",
+            "name": "Gigabyte GeForce RTX 4080 AERO OC 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "38.999,01 TL"
+        },
+        {
+            "where": "www.qp.com.tr",
+            "name": "Gigabyte GeForce RTX 4080 EAGLE 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "36.499,00 TL"
+        },
+        {
+            "where": "www.qp.com.tr",
+            "name": "Gigabyte GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "36.999,01 TL"
+        },
+        {
+            "where": "www.qp.com.tr",
+            "name": "Gigabyte GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "37.999,00 TL"
+        },
         {
             "where": "www.vatanbilgisayar.com",
             "name": "ZOTAC GeForce RTX 4080 TRINITY GAMING OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
