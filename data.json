@@ -223,6 +223,16 @@
             "price": "36.199,00"
         },
         {
+            "where": "inventus.com.tr",
+            "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
+            "price": "32999,00TL"
+        },
+        {
+            "where": "inventus.com.tr",
+            "name": "PALIT GeForce RTX 4080 GameRock RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
+            "price": "31999,00TL"
+        },
+        {
             "where": "www.gamegaraj.com",
             "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X",
             "price": "31,999 TL"
