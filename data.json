@@ -73,14 +73,14 @@
             "price": "38.699,00 ₺"
         },
         {
-            "where": "www.itopya.com",
-            "name": "ASUS ROG STRIX GeForce RTX 4080 16GB GDDR6X 256 Bit Ekran Kartı",
-            "price": "40.099,00"
+            "where": "inventus.com.tr",
+            "name": "ASUS GeForce TUF-RTX4080-O16G-GAMING RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, 2xHDMI, 3xDisplayPort Ekran kartı",
+            "price": "36488,49TL"
         },
         {
             "where": "www.itopya.com",
-            "name": "ASUS ROG STRIX GeForce RTX 4080 OC Edition 16GB GDDR6X 256 Bit Ekran Kartı",
-            "price": "40.499,00"
+            "name": "ASUS ROG STRIX GeForce RTX 4080 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "40.099,00"
         },
         {
             "where": "www.gamegaraj.com",
@@ -196,6 +196,16 @@
             "where": "www.vatanbilgisayar.com",
             "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
             "price": "36.949"
+        },
+        {
+            "where": "inventus.com.tr",
+            "name": "INNO3D GeForce RTX4080 ICHILL x3 RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
+            "price": "32999,00TL"
+        },
+        {
+            "where": "inventus.com.tr",
+            "name": "INNO3D GeForce RTX4080 x3 RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
+            "price": "30999,00TL"
         },
         {
             "where": "www.gamegaraj.com",
