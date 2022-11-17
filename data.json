@@ -78,6 +78,11 @@
             "price": "40.099,00"
         },
         {
+            "where": "www.itopya.com",
+            "name": "ASUS ROG STRIX GeForce RTX 4080 OC Edition 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "40.499,00"
+        },
+        {
             "where": "www.gamegaraj.com",
             "name": "ASUS RTX 4080 TUF-RTX4080-16G-GAMING 16GB GDDR6X 256bit",
             "price": "36,685 TL"
@@ -100,7 +105,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "37.685,01 TL"
+            "price": "37.685,21 TL"
         },
         {
             "where": "www.tebilon.com",
@@ -115,7 +120,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4080 16GB Aero OC GV-N4080AERO OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "38.256,66 TL"
+            "price": "38.256,86 TL"
         },
         {
             "where": "www.tebilon.com",
@@ -125,7 +130,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4080 16GB Eagle GV-N4080EAGLE-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "36.058,00 TL"
+            "price": "36.058,19 TL"
         },
         {
             "where": "www.tebilon.com",
@@ -135,7 +140,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4080 16GB Eagle OC GV-N4080EAGLE OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "36.717,60 TL"
+            "price": "36.717,80 TL"
         },
         {
             "where": "www.tebilon.com",
@@ -145,7 +150,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4080 16GB Gaming OC GV-N4080GAMING OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "37.816,93 TL"
+            "price": "37.817,13 TL"
         },
         {
             "where": "www.qp.com.tr",
