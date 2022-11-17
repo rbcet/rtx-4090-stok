@@ -53,6 +53,11 @@
     ],
     "rtx4080": [
         {
+            "where": "www.gaming.gen.tr",
+            "name": "ASUS GeForce TUF RTX 4080 16GB OC GDDR6X 256 Bit Ekran Kartı",
+            "price": "38.699,00 ₺"
+        },
+        {
             "where": "www.tebilon.com",
             "name": "ASUS TUF Gaming GeForce RTX 4080 16GB 256Bit GDDR6X NVIDIA Ekran Kartı",
             "price": "36.201 TL"
