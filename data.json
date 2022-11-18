@@ -36,6 +36,16 @@
             "price": "42.469,38 TL"
         },
         {
+            "where": "www.itopya.com",
+            "name": "MSI GeForce RTX 4090 GAMING TRIO 24G 24GB GDDR6X 384 Bit Ekran Kartı",
+            "price": "48.567,46"
+        },
+        {
+            "where": "www.itopya.com",
+            "name": "MSI GeForce RTX 4090 SUPRIM X 24G 24GB GDDR6X 384 Bit Ekran Kartı",
+            "price": "53.562,08"
+        },
+        {
             "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4090 GameRock RTX4090, PCI-E16 4.0, 24GB/384bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
             "price": "43999,00TL"
