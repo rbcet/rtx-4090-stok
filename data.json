@@ -1,6 +1,11 @@
 {
     "rtx4090": [
         {
+            "where": "www.vatanbilgisayar.com",
+            "name": "ASUS GeForce TUF RTX 4090 GAMING OC 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
+            "price": "50.489"
+        },
+        {
             "where": "pckolik.com",
             "name": "ASUS TUF GEFORCE RTX 4090 24GB OC GDDR6X 384 BIT EKRAN KARTI",
             "price": "48,308.00₺"
@@ -46,6 +51,11 @@
             "price": "43999,00TL"
         },
         {
+            "where": "www.gamegaraj.com",
+            "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X",
+            "price": "43,999 TL"
+        },
+        {
             "where": "www.jumbum.com",
             "name": "ZOTAC GAMING GeForce RTX 4090 AMP EXTREME AIRO 24GB Ekran Kartı",
             "price": "49.383,00 TL"
@@ -68,6 +78,21 @@
             "price": "41.999,00 ₺"
         },
         {
+            "where": "www.sinerji.gen.tr",
+            "name": "Asus GeForce RTX 4080 Rog Strix Gaming O16G 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "₺39.235"
+        },
+        {
+            "where": "www.sinerji.gen.tr",
+            "name": "Asus GeForce RTX 4080 TUF Gaming 16G 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "₺34.935"
+        },
+        {
+            "where": "www.sinerji.gen.tr",
+            "name": "Asus GeForce RTX 4080 TUF Gaming O16G 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "₺37.621"
+        },
+        {
             "where": "www.gaming.gen.tr",
             "name": "ASUS GeForce TUF RTX 4080 16GB OC GDDR6X 256 Bit Ekran Kartı",
             "price": "38.699,00 ₺"
@@ -78,9 +103,29 @@
             "price": "36488,49TL"
         },
         {
+            "where": "www.itopya.com",
+            "name": "ASUS ROG STRIX GeForce RTX 4080 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "40.099,00"
+        },
+        {
+            "where": "www.gamegaraj.com",
+            "name": "ASUS RTX 4080 TUF-RTX4080-16G-GAMING 16GB GDDR6X 256bit",
+            "price": "36,685 TL"
+        },
+        {
+            "where": "www.gamegaraj.com",
+            "name": "ASUS RTX 4080 TUF-RTX4080-O16G-GAMING 16GB GDDR6X 256bit",
+            "price": "36,927 TL"
+        },
+        {
             "where": "www.qp.com.tr",
             "name": "Asus TUF Gaming GeForce RTX 4080 16GB 256 Bit Ekran Kartı",
             "price": "36.999,01 TL"
+        },
+        {
+            "where": "www.tebilon.com",
+            "name": "ASUS TUF Gaming GeForce RTX 4080 16GB 256Bit GDDR6X NVIDIA Ekran Kartı",
+            "price": "36.298 TL"
         },
         {
             "where": "www.qp.com.tr",
@@ -88,14 +133,99 @@
             "price": "37.499,00 TL"
         },
         {
+            "where": "www.itopya.com",
+            "name": "ASUS TUF GAMING GeForce RTX 4080 OC Edition 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "37.699,00"
+        },
+        {
+            "where": "www.incehesap.com",
+            "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "37.677,73 TL"
+        },
+        {
+            "where": "www.tebilon.com",
+            "name": "ASUS TUF GeForce RTX 4080 16GB OC GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "36.629 TL"
+        },
+        {
+            "where": "www.tebilon.com",
+            "name": "GIGABYTE GeForce RTX 4080 16GB AERO OC 256Bit 16GB GDDR6X NVIDIA Ekran Kartı",
+            "price": "36.894 TL"
+        },
+        {
+            "where": "www.incehesap.com",
+            "name": "Gigabyte GeForce RTX 4080 16GB Aero OC GV-N4080AERO OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "38.249,27 TL"
+        },
+        {
+            "where": "www.tebilon.com",
+            "name": "GIGABYTE GeForce RTX 4080 16GB EAGLE 256Bit 16GB GDDR6X  NVIDIA Ekran Kartı",
+            "price": "34.599 TL"
+        },
+        {
+            "where": "www.incehesap.com",
+            "name": "Gigabyte GeForce RTX 4080 16GB Eagle GV-N4080EAGLE-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "36.051,03 TL"
+        },
+        {
+            "where": "www.tebilon.com",
+            "name": "GIGABYTE GeForce RTX 4080 16GB EAGLE OC 256Bit 16GB GDDR6X NVIDIA Ekran Kartı",
+            "price": "35.195 TL"
+        },
+        {
+            "where": "www.incehesap.com",
+            "name": "Gigabyte GeForce RTX 4080 16GB Eagle OC GV-N4080EAGLE OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "36.710,50 TL"
+        },
+        {
+            "where": "www.tebilon.com",
+            "name": "GIGABYTE GeForce RTX 4080 16GB GAMING OC 256Bit 16GB GDDR6X NVIDIA Ekran Kartı",
+            "price": "36.055 TL"
+        },
+        {
+            "where": "www.incehesap.com",
+            "name": "Gigabyte GeForce RTX 4080 16GB Gaming OC GV-N4080GAMING OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "37.809,62 TL"
+        },
+        {
             "where": "www.qp.com.tr",
             "name": "Gigabyte GeForce RTX 4080 AERO OC 16GB GDDR6X 256 Bit Ekran Kartı",
             "price": "38.999,01 TL"
         },
         {
+            "where": "www.itopya.com",
+            "name": "GIGABYTE GeForce RTX 4080 AERO OC 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "39.149,00"
+        },
+        {
             "where": "www.qp.com.tr",
             "name": "Gigabyte GeForce RTX 4080 EAGLE 16GB GDDR6X 256 Bit Ekran Kartı",
             "price": "36.499,00 TL"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "GIGABYTE GeForce RTX 4080 EAGLE 16GB GDDR6X 256Bit NVIDIA Ekran Kart",
+            "price": "35.474"
+        },
+        {
+            "where": "www.itopya.com",
+            "name": "GIGABYTE GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "37.349,00"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "GIGABYTE GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "36.064"
+        },
+        {
+            "where": "www.itopya.com",
+            "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "38.249,00"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "36.949"
         },
         {
             "where": "inventus.com.tr",
@@ -108,6 +238,26 @@
             "price": "30999,00TL"
         },
         {
+            "where": "www.gamegaraj.com",
+            "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X",
+            "price": "32,999 TL"
+        },
+        {
+            "where": "www.gamegaraj.com",
+            "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X",
+            "price": "30,999 TL"
+        },
+        {
+            "where": "www.tebilon.com",
+            "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "35.305 TL"
+        },
+        {
+            "where": "www.itopya.com",
+            "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "36.199,00"
+        },
+        {
             "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
             "price": "32999,00TL"
@@ -116,6 +266,31 @@
             "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4080 GameRock RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
             "price": "31999,00TL"
+        },
+        {
+            "where": "www.gamegaraj.com",
+            "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X",
+            "price": "31,999 TL"
+        },
+        {
+            "where": "www.gamegaraj.com",
+            "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
+            "price": "32,999 TL"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "ZOTAC GeForce RTX 4080 AMP EXTREME AIRO 16GB GDRR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "35.769"
+        },
+        {
+            "where": "www.tebilon.com",
+            "name": "ZOTAC GeForce RTX 4080 AMP Extreme AIRO 256Bit 16GB GDDR6X NVIDIA Ekran Kartı",
+            "price": "34.908 TL"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "ZOTAC GeForce RTX 4080 TRINITY GAMING OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "34.171"
         }
     ]
 }
