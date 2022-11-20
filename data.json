@@ -8,7 +8,7 @@
         {
             "where": "www.jumbum.com",
             "name": "ASUS TUF GeForce RTX 4090 GAMING OC TUF-RTX4090-O24G-GAMING 24GB Ekran Kartı",
-            "price": "48.285,60 TL"
+            "price": "47.188,20 TL"
         },
         {
             "where": "www.jumbum.com",
@@ -16,24 +16,14 @@
             "price": "44.334,96 TL"
         },
         {
-            "where": "www.jumbum.com",
-            "name": "GIGABYTE GeForce RTX 4090 AORUS Master 24GB Ekran Kartı",
-            "price": "46.310,28 TL"
-        },
-        {
-            "where": "www.jumbum.com",
-            "name": "GIGABYTE GeForce RTX 4090 Gaming OC 24GB Ekran Kartı",
-            "price": "44.334,96 TL"
-        },
-        {
-            "where": "www.jumbum.com",
-            "name": "GIGABYTE GeForce RTX 4090 WindForce 24GB Ekran Kartı",
-            "price": "42.469,38 TL"
-        },
-        {
             "where": "www.qp.com.tr",
             "name": "MSI Geforce RTX 4090 GAMING TRIO 24G 24GB GGDR6X 384 Bit Ekran Kartı",
             "price": "48.999,01 TL"
+        },
+        {
+            "where": "www.jumbum.com",
+            "name": "MSI GeForce RTX 4090 VENTUS 3X 24G OC 24GB Ekran Kartı",
+            "price": "46.090,80 TL"
         },
         {
             "where": "inventus.com.tr",
@@ -49,11 +39,6 @@
             "where": "www.gamegaraj.com",
             "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X",
             "price": "43,999 TL"
-        },
-        {
-            "where": "www.jumbum.com",
-            "name": "ZOTAC GAMING GeForce RTX 4090 AMP EXTREME AIRO 24GB Ekran Kartı",
-            "price": "49.383,00 TL"
         },
         {
             "where": "pckolik.com",
