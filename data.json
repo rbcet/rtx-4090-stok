@@ -6,6 +6,11 @@
             "price": "48,308.00₺"
         },
         {
+            "where": "www.incehesap.com",
+            "name": "MSI GeForce RTX 4090 GAMING TRIO 24G 24GB GDDR6X 384Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "44.999,00 TL"
+        },
+        {
             "where": "www.qp.com.tr",
             "name": "MSI Geforce RTX 4090 GAMING TRIO 24G 24GB GGDR6X 384 Bit Ekran Kartı",
             "price": "48.999,01 TL"
@@ -96,6 +101,11 @@
             "where": "www.vatanbilgisayar.com",
             "name": "ASUS ROG STRIX GeForce RTX 4080 GAMING OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
             "price": "40.606"
+        },
+        {
+            "where": "www.incehesap.com",
+            "name": "Asus ROG Strix GeForce RTX 4080 OC ROG-STRIX-RTX4080-O16G-GAMING 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "39.799,00 TL"
         },
         {
             "where": "www.incehesap.com",
@@ -286,6 +296,11 @@
             "where": "www.gamegaraj.com",
             "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
             "price": "32,999 TL"
+        },
+        {
+            "where": "www.incehesap.com",
+            "name": "Zotac Gaming GeForce RTX 4080 16GB Trinity OC ZT-D40810J-10P 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "31.699,00 TL"
         },
         {
             "where": "www.tebilon.com",
