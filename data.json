@@ -218,9 +218,19 @@
             "price": "30,999 TL"
         },
         {
+            "where": "www.incehesap.com",
+            "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "34.999,00 TL"
+        },
+        {
             "where": "www.tebilon.com",
             "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO GDDR6X 256Bit NVIDIA Ekran Kartı",
             "price": "35.305 TL"
+        },
+        {
+            "where": "www.incehesap.com",
+            "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "36.999,00 TL"
         },
         {
             "where": "www.itopya.com",
