@@ -26,6 +26,11 @@
             "price": "50.932"
         },
         {
+            "where": "www.jumbum.com",
+            "name": "MSI GeForce RTX 4090 VENTUS 3X 24G OC 24GB Ekran Kartı",
+            "price": "46.090,80 TL"
+        },
+        {
             "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24GB/384bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
             "price": "43999,00TL"
