@@ -16,11 +16,6 @@
             "price": "46.197"
         },
         {
-            "where": "www.vatanbilgisayar.com",
-            "name": "MSI GeForce RTX 4090 SUPRIM X 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
-            "price": "50.932"
-        },
-        {
             "where": "www.jumbum.com",
             "name": "MSI GeForce RTX 4090 VENTUS 3X 24G OC 24GB Ekran Kartı",
             "price": "46.090,80 TL"
@@ -250,7 +245,12 @@
         {
             "where": "www.incehesap.com",
             "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "34.999,00 TL"
+            "price": "35.385,91 TL"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "36.440"
         },
         {
             "where": "www.tebilon.com",
@@ -261,6 +261,11 @@
             "where": "www.incehesap.com",
             "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
             "price": "36.999,00 TL"
+        },
+        {
+            "where": "www.vatanbilgisayar.com",
+            "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "38.486"
         },
         {
             "where": "www.itopya.com",
