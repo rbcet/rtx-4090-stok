@@ -6,6 +6,11 @@
             "price": "48,308.00₺"
         },
         {
+            "where": "www.tebilon.com",
+            "name": "MSI GeForce RTX 4090 SUPRIM X 24G GDDR6X 384Bit NVIDIA Ekran Kartı",
+            "price": "51.855 TL"
+        },
+        {
             "where": "www.jumbum.com",
             "name": "MSI GeForce RTX 4090 VENTUS 3X 24G OC 24GB Ekran Kartı",
             "price": "46.140,36 TL"
@@ -71,6 +76,11 @@
             "where": "inventus.com.tr",
             "name": "ASUS GeForce TUF-RTX4080-O16G-GAMING RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, 2xHDMI, 3xDisplayPort Ekran kartı",
             "price": "35736,15TL"
+        },
+        {
+            "where": "pckolik.com",
+            "name": "ASUS ROG STRIX GEFORCE RTX 4080 16GB GDDR6X 256 BIT EKRAN KARTI",
+            "price": "39,999.00₺"
         },
         {
             "where": "www.itopya.com",
