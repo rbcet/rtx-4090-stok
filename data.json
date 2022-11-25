@@ -1,6 +1,11 @@
 {
     "rtx4090": [
         {
+            "where": "www.incehesap.com",
+            "name": "Asus ROG Strix GeForce RTX 4090 OC ROG-STRIX-RTX4090-O24G-GAMING 24GB GDDR6X 384Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+            "price": "53.210,96 TL"
+        },
+        {
             "where": "pckolik.com",
             "name": "ASUS TUF GEFORCE RTX 4090 24GB OC GDDR6X 384 BIT EKRAN KARTI",
             "price": "48,308.00₺"
@@ -88,11 +93,6 @@
             "price": "40.606"
         },
         {
-            "where": "www.qp.com.tr",
-            "name": "Asus ROG Strix GeForce RTX 4080 OC Edition 16GB GDDR6X 256 Bit Ekran Kartı",
-            "price": "39.998,99 TL"
-        },
-        {
             "where": "www.incehesap.com",
             "name": "Asus ROG Strix GeForce RTX 4080 OC ROG-STRIX-RTX4080-O16G-GAMING 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
             "price": "38.999,00 TL"
@@ -108,19 +108,9 @@
             "price": "36,927 TL"
         },
         {
-            "where": "www.qp.com.tr",
-            "name": "Asus TUF Gaming GeForce RTX 4080 16GB 256 Bit Ekran Kartı",
-            "price": "36.999,01 TL"
-        },
-        {
             "where": "www.tebilon.com",
             "name": "ASUS TUF Gaming GeForce RTX 4080 16GB 256Bit GDDR6X NVIDIA Ekran Kartı",
             "price": "36.298 TL"
-        },
-        {
-            "where": "www.qp.com.tr",
-            "name": "Asus TUF Gaming GeForce RTX 4080 OC Edition 16GB 256 Bit Ekran Kartı",
-            "price": "37.499,00 TL"
         },
         {
             "where": "www.itopya.com",
@@ -178,19 +168,9 @@
             "price": "33.699,00 TL"
         },
         {
-            "where": "www.qp.com.tr",
-            "name": "Gigabyte GeForce RTX 4080 AERO OC 16GB GDDR6X 256 Bit Ekran Kartı",
-            "price": "38.999,01 TL"
-        },
-        {
             "where": "www.itopya.com",
             "name": "GIGABYTE GeForce RTX 4080 AERO OC 16GB GDDR6X 256 Bit Ekran Kartı",
             "price": "38.269,45"
-        },
-        {
-            "where": "www.qp.com.tr",
-            "name": "Gigabyte GeForce RTX 4080 EAGLE 16GB GDDR6X 256 Bit Ekran Kartı",
-            "price": "36.499,00 TL"
         },
         {
             "where": "www.vatanbilgisayar.com",
