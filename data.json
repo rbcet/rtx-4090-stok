@@ -1,11 +1,6 @@
 {
     "rtx4090": [
         {
-            "where": "pckolik.com",
-            "name": "ASUS TUF GEFORCE RTX 4090 24GB OC GDDR6X 384 BIT EKRAN KARTI",
-            "price": "48,308.00₺"
-        },
-        {
             "where": "www.tebilon.com",
             "name": "MSI GeForce RTX 4090 SUPRIM X 24G GDDR6X 384Bit NVIDIA Ekran Kartı",
             "price": "54.061 TL"
@@ -19,11 +14,6 @@
             "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4090 GameRock RTX4090, PCI-E16 4.0, 24GB/384bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
             "price": "43999,00TL"
-        },
-        {
-            "where": "pckolik.com",
-            "name": "Zotac GeForce RTX 4090 Gaming AMP Extreme AIRO 24GB GDDR6X 384 Bit Ekran Kartı",
-            "price": "45,201.00₺"
         }
     ],
     "rtx4080": [
@@ -61,11 +51,6 @@
             "where": "inventus.com.tr",
             "name": "ASUS GeForce TUF-RTX4080-O16G-GAMING RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, 2xHDMI, 3xDisplayPort Ekran kartı",
             "price": "35736,15TL"
-        },
-        {
-            "where": "pckolik.com",
-            "name": "ASUS ROG STRIX GEFORCE RTX 4080 16GB GDDR6X 256 BIT EKRAN KARTI",
-            "price": "39,999.00₺"
         },
         {
             "where": "www.vatanbilgisayar.com",
@@ -121,11 +106,6 @@
             "where": "www.incehesap.com",
             "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
             "price": "34.449,00 TL"
-        },
-        {
-            "where": "pckolik.com",
-            "name": "ASUS TUF GEFORCE RTX 4080 16GB GDDR6X 256 BIT EKRAN KARTI",
-            "price": "36,799.00₺"
         },
         {
             "where": "www.tebilon.com",
@@ -296,11 +276,6 @@
             "where": "www.tebilon.com",
             "name": "ZOTAC GeForce RTX 4080 AMP Extreme AIRO 256Bit 16GB GDDR6X NVIDIA Ekran Kartı",
             "price": "34.908 TL"
-        },
-        {
-            "where": "pckolik.com",
-            "name": "ZOTAC GEFORCE RTX 4080 TRINITY 16GB GDDR6X 256BIT OC EKRAN KARTI",
-            "price": "34,299.00₺"
         },
         {
             "where": "www.vatanbilgisayar.com",
