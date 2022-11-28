@@ -223,6 +223,11 @@
             "price": "38.486"
         },
         {
+            "where": "www.itopya.com",
+            "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256 Bit Ekran Kartı",
+            "price": "36.199,00"
+        },
+        {
             "where": "www.vatanbilgisayar.com",
             "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
             "price": "35.212"
@@ -235,7 +240,7 @@
         {
             "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
-            "price": "34735,79TL"
+            "price": "32651,64TL"
         },
         {
             "where": "inventus.com.tr",
