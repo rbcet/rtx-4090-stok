@@ -73,6 +73,11 @@
             "price": "40.234"
         },
         {
+            "where": "www.vatanbilgisayar.com",
+            "name": "ASUS ROG STRIX GeForce RTX 4080 GAMING OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "40.606"
+        },
+        {
             "where": "www.qp.com.tr",
             "name": "Asus ROG Strix GeForce RTX 4080 OC Edition 16GB GDDR6X 256 Bit Ekran Kartı",
             "price": "39.998,99 TL"
@@ -80,7 +85,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Asus ROG Strix GeForce RTX 4080 OC ROG-STRIX-RTX4080-O16G-GAMING 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "38.964,09 TL"
+            "price": "38.958,86 TL"
         },
         {
             "where": "www.gamegaraj.com",
@@ -115,7 +120,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "37.292,54 TL"
+            "price": "37.287,55 TL"
         },
         {
             "where": "pckolik.com",
@@ -135,7 +140,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4080 16GB Aero OC GV-N4080AERO OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "36.652,66 TL"
+            "price": "36.647,75 TL"
         },
         {
             "where": "www.tebilon.com",
@@ -145,7 +150,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4080 16GB Eagle GV-N4080EAGLE-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "33.900,96 TL"
+            "price": "33.896,41 TL"
         },
         {
             "where": "www.tebilon.com",
@@ -155,12 +160,12 @@
         {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4080 16GB Eagle OC GV-N4080EAGLE OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "36.762,73 TL"
+            "price": "36.757,80 TL"
         },
         {
             "where": "www.incehesap.com",
             "name": "Gigabyte GeForce RTX 4080 16GB Gaming OC GV-N4080GAMING OC-16GD 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "35.221,77 TL"
+            "price": "35.217,05 TL"
         },
         {
             "where": "www.qp.com.tr",
@@ -230,7 +235,7 @@
         {
             "where": "www.incehesap.com",
             "name": "MSI GeForce RTX 4080 16GB Ventus 3X OC 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "34.231,16 TL"
+            "price": "34.226,57 TL"
         },
         {
             "where": "www.vatanbilgisayar.com",
@@ -265,7 +270,7 @@
         {
             "where": "www.incehesap.com",
             "name": "Zotac Gaming GeForce RTX 4080 16GB Trinity OC ZT-D40810J-10P 16GB GDDR6X 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-            "price": "33.020,41 TL"
+            "price": "33.015,99 TL"
         },
         {
             "where": "www.tebilon.com",
