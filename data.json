@@ -12,6 +12,11 @@
         },
         {
             "where": "inventus.com.tr",
+            "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24GB/384bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
+            "price": "43999,00TL"
+        },
+        {
+            "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4090 GameRock RTX4090, PCI-E16 4.0, 24GB/384bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
             "price": "43999,00TL"
         },
@@ -55,7 +60,7 @@
         {
             "where": "www.vatanbilgisayar.com",
             "name": "ASUS GeForce TUF RTX 4080 GAMING OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
-            "price": "37.699"
+            "price": "37.732"
         },
         {
             "where": "inventus.com.tr",
@@ -190,7 +195,7 @@
         {
             "where": "www.vatanbilgisayar.com",
             "name": "GIGABYTE GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
-            "price": "36.503"
+            "price": "38.188"
         },
         {
             "where": "www.itopya.com",
@@ -200,7 +205,7 @@
         {
             "where": "www.vatanbilgisayar.com",
             "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
-            "price": "37.399"
+            "price": "39.122"
         },
         {
             "where": "inventus.com.tr",
@@ -250,7 +255,7 @@
         {
             "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16GB/256bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
-            "price": "32651,64TL"
+            "price": "34735,79TL"
         },
         {
             "where": "inventus.com.tr",
