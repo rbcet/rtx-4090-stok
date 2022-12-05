@@ -1,6 +1,11 @@
 {
     "rtx4090": [
         {
+            "where": "www.teknobiyotik.com",
+            "name": "Galax GeForce RTX4090 SG (1-Click OC) 24GB 384Bit GDDR6X PCIe 4.0 RTX 40...",
+            "price": "46.999,03 ₺ 45.499,92 ₺"
+        },
+        {
             "where": "inventus.com.tr",
             "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24GB/384bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
             "price": "43999,00TL"
@@ -8,7 +13,7 @@
         {
             "where": "www.novabilgisayar.com",
             "name": "PALIT RTX 4090 GAMEROCK, 24GB, 384 Bit, GDDR6X Ekran Kart�",
-            "price": "47.082\t\t\t\t\t\t\t\t\t  TL"
+            "price": "47.082  TL"
         },
         {
             "where": "www.jumbum.com",
@@ -126,6 +131,11 @@
             "where": "www.jumbum.com",
             "name": "ASUS TUF-RTX4080-O16G-GAMING 16GB 256 bit  GDDR6X/OC Ekran Kartı",
             "price": "35.651,34 TL"
+        },
+        {
+            "where": "www.teknobiyotik.com",
+            "name": "Galax GeForce RTX4080 SG (1-Click OC) 16GB 256Bit GDDR6X PCIe 4.0 RTX 40...",
+            "price": "32.698,89 ₺"
         },
         {
             "where": "www.tebilon.com",
