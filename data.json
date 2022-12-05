@@ -1,4 +1,46 @@
 {
-    "rtx4090": [],
-    "rtx4080": []
+    "rtx4090": [
+        {
+            "where": "www.jumbum.com",
+            "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X 3x DP, HDMI Ekran Kartı",
+            "price": "42.583,55 TL"
+        }
+    ],
+    "rtx4080": [
+        {
+            "where": "www.jumbum.com",
+            "name": "ASUS TUF-RTX4080-16G-GAMING 16GB 256 bit Ekran Kartı",
+            "price": "37.742,01 TL"
+        },
+        {
+            "where": "www.jumbum.com",
+            "name": "ASUS TUF-RTX4080-O16G-GAMING 16GB 256 bit  GDDR6X/OC Ekran Kartı",
+            "price": "35.651,34 TL"
+        },
+        {
+            "where": "www.jumbum.com",
+            "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X Ekran Kartı",
+            "price": "31.359,98 TL"
+        },
+        {
+            "where": "www.jumbum.com",
+            "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X Ekran Kartı",
+            "price": "29.445,37 TL"
+        },
+        {
+            "where": "www.jumbum.com",
+            "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256Bit NVIDIA Ekran Kartı",
+            "price": "33.010,50 TL"
+        },
+        {
+            "where": "www.jumbum.com",
+            "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X Ekran Kartı",
+            "price": "30.413,67 TL"
+        },
+        {
+            "where": "www.jumbum.com",
+            "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X Ekran Kartı",
+            "price": "31.381,98 TL"
+        }
+    ]
 }
