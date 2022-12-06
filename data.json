@@ -58,6 +58,11 @@
             "price": "37.310"
         },
         {
+            "where": "www.jumbum.com",
+            "name": "ASUS ROG Strix GeForce RTX 4080 - 16 GB Ekran Kartı",
+            "price": "38.732,32 TL"
+        },
+        {
             "where": "pckolik.com",
             "name": "ASUS ROG STRIX GEFORCE RTX 4080 16GB GDDR6X 256 BIT EKRAN KARTI",
             "price": "39,962.00₺"
@@ -86,6 +91,11 @@
             "where": "www.gamegaraj.com",
             "name": "ASUS RTX 4080 TUF-RTX4080-O16G-GAMING 16GB GDDR6X 256bit",
             "price": "36,927 TL"
+        },
+        {
+            "where": "www.jumbum.com",
+            "name": "ASUS TUF Gaming GeForce RTX 4080 - OC Edition - 16 GB Ekran Kartı",
+            "price": "36.157,50 TL"
         },
         {
             "where": "www.qp.com.tr",
