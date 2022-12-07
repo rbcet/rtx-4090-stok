@@ -125,6 +125,11 @@
         "price": "34.557,47"
     },
     {
+        "where": "jumbum.com",
+        "name": "Gigabyte GeForce RTX 4080 16GB Gaming OC GV-N4080GAMING OC-1",
+        "price": "33.010,50"
+    },
+    {
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 EAGLE 16GB GDDR6X 256 Bit Ekran Ka",
         "price": "36.499,00"
@@ -203,6 +208,11 @@
         "where": "incehesap.com",
         "name": "MSI GeForce RTX 4080 16GB Ventus 3X OC 16GB GDDR6X 256Bit DX",
         "price": "34.227,31"
+    },
+    {
+        "where": "jumbum.com",
+        "name": "MSI GeForce RTX4080 VENTUS 3X OC 16GB Ekran Kartı",
+        "price": "32.460,33"
     },
     {
         "where": "gamegaraj.com",
