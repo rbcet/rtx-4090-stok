@@ -1,37 +1,37 @@
 [
     {
         "where": "www.incehesap.com",
-        "name": "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-        "price": "45.701,81 TL"
+        "name": "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit DX",
+        "price": "45.698,38 "
     },
     {
         "where": "www.incehesap.com",
-        "name": "Colorful iGame GeForce RTX 4090 Vulcan OC-V 24GB GDDR6X 384Bit DX12 Gaming (Oyuncu) Ekran Kartı",
-        "price": "50.738,34 TL"
+        "name": "Colorful iGame GeForce RTX 4090 Vulcan OC-V 24GB GDDR6X",
+        "price": "50.734,53 "
     },
     {
         "where": "www.teknobiyotik.com",
-        "name": "Galax GeForce RTX4090 SG (1-Click OC) 24GB 384Bit GDDR6X PCIe 4.0 RTX 40...",
-        "price": "45.499,92 ₺"
+        "name": "Galax GeForce RTX4090 SG (1-Click OC) 24GB 384Bit GDDR6",
+        "price": "45.499,92 "
     },
     {
         "where": "www.vatanbilgisayar.com",
-        "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384Bit NVIDIA Ekran Kartı",
+        "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384Bit N",
         "price": "49.361"
     },
     {
         "where": "inventus.com.tr",
-        "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24GB/384bit GDDR6X, HDMI, 3xDisplayPort Ekran kartı",
-        "price": "43999,00TL"
+        "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0",
+        "price": "43999,00"
     },
     {
         "where": "www.jumbum.com",
-        "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X 3x DP, HDMI Ekran Kartı",
-        "price": "42.583,55 TL"
+        "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X 3x DP, HDMI E",
+        "price": "42.583,55 "
     },
     {
         "where": "www.tebilon.com",
-        "name": "ZOTAC GeForce RTX 4090 TRINITY 24GB 384Bit GDDR6X Ekran Kartı",
-        "price": "43.028 TL"
+        "name": "ZOTAC GeForce RTX 4090 TRINITY 24GB 384Bit GDDR6X Ekran",
+        "price": "43.028 "
     }
 ]
