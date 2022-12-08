@@ -255,6 +255,11 @@
         "price": "30.259,63"
     },
     {
+        "where": "teknolojipazar.com",
+        "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X NED4080019T2-1030G",
+        "price": "31.460,62"
+    },
+    {
         "where": "gamegaraj.com",
         "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
         "price": "32,999"
@@ -263,6 +268,11 @@
         "where": "jumbum.com",
         "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X Ekran Kartı",
         "price": "31.249,94"
+    },
+    {
+        "where": "teknolojipazar.com",
+        "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X NED4080S19T2-10",
+        "price": "32.485,03"
     },
     {
         "where": "incehesap.com",
