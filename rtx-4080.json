@@ -45,6 +45,16 @@
         "price": "39.998,99"
     },
     {
+        "where": "gamegaraj.com",
+        "name": "ASUS RTX 4080 TUF-RTX4080-16G-GAMING 16GB GDDR6X 256bit",
+        "price": "35,752"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "ASUS RTX 4080 TUF-RTX4080-O16G-GAMING 16GB GDDR6X 256bit",
+        "price": "35,901"
+    },
+    {
         "where": "jumbum.com",
         "name": "ASUS TUF Gaming GeForce RTX 4080 - OC Edition - 16 GB Ekran ",
         "price": "35.981,45"
@@ -155,6 +165,11 @@
         "price": "30999,00"
     },
     {
+        "where": "gamegaraj.com",
+        "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X",
+        "price": "32,999"
+    },
+    {
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X 3x DP 1.4a, HDMI",
         "price": "32.522,90"
@@ -163,6 +178,11 @@
         "where": "jumbum.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X Ekran Kartı",
         "price": "31.359,98"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X",
+        "price": "30,999"
     },
     {
         "where": "teknolojipazar.com",
@@ -210,6 +230,11 @@
         "price": "32.460,33"
     },
     {
+        "where": "gamegaraj.com",
+        "name": "MSI RTX 4080 VENTUS 3X OC 16GB GDDR6X 256B DX12 PCIE 4.0 X16",
+        "price": "33,899"
+    },
+    {
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16G",
         "price": "31956,93"
@@ -218,6 +243,11 @@
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4080 GameRock RTX4080, PCI-E16 4.0, 16GB/2",
         "price": "31999,00"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X",
+        "price": "31,999"
     },
     {
         "where": "teknolojipazar.com",
@@ -233,6 +263,11 @@
         "where": "teknolojipazar.com",
         "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X NED4080019T2-1030G",
         "price": "31.460,62"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
+        "price": "32,999"
     },
     {
         "where": "jumbum.com",
