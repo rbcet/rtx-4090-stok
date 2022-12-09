@@ -205,6 +205,11 @@
         "price": "33.028,20"
     },
     {
+        "where": "tebilon.com",
+        "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO GDDR6X 256Bit NVIDIA",
+        "price": "35.415"
+    },
+    {
         "where": "incehesap.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit DX12 G",
         "price": "37.405,53"
@@ -228,6 +233,11 @@
         "where": "incehesap.com",
         "name": "MSI GeForce RTX 4080 16GB Ventus 3X OC 16GB GDDR6X 256Bit DX",
         "price": "34.235,20"
+    },
+    {
+        "where": "tebilon.com",
+        "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC GDDR6X 256Bit NVIDIA ",
+        "price": "34.091"
     },
     {
         "where": "jumbum.com",
