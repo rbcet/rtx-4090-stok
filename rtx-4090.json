@@ -38,5 +38,10 @@
         "where": "jumbum.com",
         "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X 3x DP, HDMI Ekran ",
         "price": "42.606,38"
+    },
+    {
+        "where": "tebilon.com",
+        "name": "ZOTAC GeForce RTX 4090 TRINITY 24GB 384Bit GDDR6X Ekran Kart",
+        "price": "43.028"
     }
 ]
