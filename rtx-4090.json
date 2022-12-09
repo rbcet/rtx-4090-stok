@@ -2,7 +2,7 @@
     {
         "where": "teknolojipazar.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
-        "price": "43.188,66"
+        "price": "43.188,44"
     },
     {
         "where": "hedefmarket.com",
@@ -43,5 +43,10 @@
         "where": "tebilon.com",
         "name": "ZOTAC GeForce RTX 4090 TRINITY 24GB 384Bit GDDR6X Ekran Kart",
         "price": "43.028"
+    },
+    {
+        "where": "teknolojipazar.com",
+        "name": "ZOTAC RTX4090 24GB TRINITY ZT-D40900D-10P GDDR6X 384bit HDMI",
+        "price": "42.247,22"
     }
 ]
