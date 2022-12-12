@@ -12,7 +12,7 @@
     {
         "where": "incehesap.com",
         "name": "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit DX12 Ga",
-        "price": "45.712,59"
+        "price": "45.708,67"
     },
     {
         "where": "kuantumsanal.com",
@@ -38,6 +38,11 @@
         "where": "ebrarbilgisayar.com",
         "name": "Gigabyte GeForce RTX 4090 WINDFORCE 3X 24GB 384Bit GDDR6X",
         "price": "kdvdahil48.854,12"
+    },
+    {
+        "where": "vatanbilgisayar.com",
+        "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384Bit NVIDIA",
+        "price": "49.361"
     },
     {
         "where": "inventus.com.tr",
