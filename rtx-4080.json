@@ -12,7 +12,7 @@
     {
         "where": "amazon.com.tr",
         "name": "ASUS GeForce Rtx 4080 Tuf-Rtx4080-O16G-Gaming 16Gb Gddr6X 25",
-        "price": "37.311,77"
+        "price": "37.306,37"
     },
     {
         "where": "gaming.gen.tr",
@@ -195,6 +195,11 @@
         "price": "33.028,20"
     },
     {
+        "where": "qp.com.tr",
+        "name": "MSI Geforce RTX 4080 16GB GAMING X TRIO 16GB GGDR6X 256 Bit ",
+        "price": "35.999,00"
+    },
+    {
         "where": "tebilon.com",
         "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO GDDR6X 256Bit NVIDIA",
         "price": "35.415"
@@ -223,6 +228,11 @@
         "where": "incehesap.com",
         "name": "MSI GeForce RTX 4080 16GB Ventus 3X OC 16GB GDDR6X 256Bit DX",
         "price": "34.230,24"
+    },
+    {
+        "where": "qp.com.tr",
+        "name": "MSI Geforce RTX 4080 16GB VENTUS 3X OC 16GB GGDR6X 256 Bit E",
+        "price": "34.998,99"
     },
     {
         "where": "tebilon.com",
