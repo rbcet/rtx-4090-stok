@@ -1,25 +1,5 @@
 [
     {
-        "where": "inventus.com.tr",
-        "name": "ASUS GeForce ROG-STRIX-RTX4090-24G-GAMING RTX4090, PCI-E16 4",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ASUS GeForce ROG-STRIX-RTX4090-O24G-GAMING RTX4090, PCI-E16 ",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ASUS GeForce TUF-RTX4090-24G-GAMING RTX4090, PCI-E16 4.0, 24",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ASUS GeForce TUF-RTX4090-O24G-GAMING RTX4090, PCI-E16 4.0, 2",
-        "price": "k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
         "price": "43k"
@@ -40,24 +20,9 @@
         "price": "44k"
     },
     {
-        "where": "kuantumsanal.com",
-        "name": "COLORFUL iGame GeForce RTX 4090 Vulcan OC-V 24GB GDDR6X 384B",
-        "price": "k"
-    },
-    {
         "where": "novabilgisayar.com",
         "name": "COLORFUL RTX 4090 NB EX-V, 24GB, 384 Bit, GDDR6X Ekran Kart�",
         "price": "47k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "GAINWARD GeForce RTX 4090 Phantom GS RTX4090, PCI-E16 4.0, 2",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "GAINWARD GeForce RTX 4090 Phantom RTX4090, PCI-E16 4.0, 24GB",
-        "price": "k"
     },
     {
         "where": "teknobiyotik.com",
@@ -65,29 +30,9 @@
         "price": "44k"
     },
     {
-        "where": "inventus.com.tr",
-        "name": "GIGABYTE AORUS GeForce RTX 4090 MASTER 24G RTX4090, PCI-E16 ",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "GIGABYTE AORUS GeForce RTX 4090 XTREME WATERFORCE 24G RTX409",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24G GV-N4090GAMING OC-24",
-        "price": "k"
-    },
-    {
         "where": "ebrarbilgisayar.com",
         "name": "Gigabyte GeForce RTX 4090 GAMING OC 24GB 384Bit GDDR6X",
         "price": "52k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24G GV-N4090WF3-24GD RTX",
-        "price": "k"
     },
     {
         "where": "tebilon.com",
@@ -105,39 +50,9 @@
         "price": "48k"
     },
     {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4090 GAMING TRIO 24G RTX4090, PCI-E16 4.0, 2",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4090 GAMING X TRIO 24G RTX4090, PCI-E16 4.0,",
-        "price": "k"
-    },
-    {
         "where": "vatanbilgisayar.com",
         "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384Bit NVIDIA",
         "price": "49k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4090 SUPRIM 24G RTX4090, PCI-E16 4.0, 24GB/3",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4090 SUPRIM LIQUID 24G RTX4090, PCI-E16 4.0,",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4090 SUPRIM LIQUID X 24G RTX4090, PCI-E16 4.",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4090 SUPRIM X 24G RTX4090, PCI-E16 4.0, 24GB",
-        "price": "k"
     },
     {
         "where": "inventus.com.tr",
@@ -145,29 +60,9 @@
         "price": "43k"
     },
     {
-        "where": "inventus.com.tr",
-        "name": "PALIT GeForce RTX 4090 GameRock RTX4090, PCI-E16 4.0, 24GB/3",
-        "price": "k"
-    },
-    {
         "where": "jumbum.com",
         "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X 3x DP, HDMI Ekran ",
         "price": "42k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ZOTAC GAMING GeForce RTX 4090 AMP Extreme AIRO RTX4090, PCI-",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ZOTAC GAMING GeForce RTX 4090 Trinity OC RTX4090, PCI-E16 4.",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ZOTAC GAMING GeForce RTX 4090 Trinity RTX4090, PCI-E16 4.0, ",
-        "price": "k"
     },
     {
         "where": "tebilon.com",

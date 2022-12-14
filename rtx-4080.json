@@ -10,16 +10,6 @@
         "price": "39k"
     },
     {
-        "where": "inventus.com.tr",
-        "name": "ASUS GeForce ROG-STRIX-RTX4080-16G-GAMING RTX4080, PCI-E16 4",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ASUS GeForce ROG-STRIX-RTX4080-O16G-GAMING RTX4080, PCI-E16 ",
-        "price": "k"
-    },
-    {
         "where": "amazon.com.tr",
         "name": "ASUS GeForce Rtx 4080 Tuf-Rtx4080-O16G-Gaming 16Gb Gddr6X 25",
         "price": "37k"
@@ -33,16 +23,6 @@
         "where": "vatanbilgisayar.com",
         "name": "ASUS GeForce TUF RTX 4080 GAMING 16GB GDDR6X 256Bit NVIDIA E",
         "price": "36k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ASUS GeForce TUF-RTX4080-16G-GAMING RTX4080, PCI-E16 4.0, 16",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "ASUS GeForce TUF-RTX4080-O16G-GAMING RTX4080, PCI-E16 4.0, 1",
-        "price": "k"
     },
     {
         "where": "jumbum.com",
@@ -83,11 +63,6 @@
         "where": "incehesap.com",
         "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING ",
         "price": "36k"
-    },
-    {
-        "where": "teknobiyotik.com",
-        "name": "Galax GeForce RTX4080 SG (1-Click OC) 16GB 256Bit GDDR6X PCI",
-        "price": "k"
     },
     {
         "where": "tebilon.com",
@@ -180,41 +155,6 @@
         "price": "30k"
     },
     {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 12GB GAMING TRIO RTX4080, PCI-E16 4.0, ",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 12GB GAMING X TRIO RTX4080, PCI-E16 4.0",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 12GB SUPRIM RTX4080, PCI-E16 4.0, 12GB/",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 12GB SUPRIM X RTX4080, PCI-E16 4.0, 12G",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 12GB VENTUS 3X OC RTX4080, PCI-E16 4.0,",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 12GB VENTUS 3X RTX4080, PCI-E16 4.0, 12",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 16GB GAMING TRIO RTX4080, PCI-E16 4.0, ",
-        "price": "k"
-    },
-    {
         "where": "itopya.com",
         "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256 Bit ",
         "price": "39k"
@@ -245,16 +185,6 @@
         "price": "35k"
     },
     {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO RTX4080, PCI-E16 4.0",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 16GB SUPRIM RTX4080, PCI-E16 4.0, 16GB/",
-        "price": "k"
-    },
-    {
         "where": "vatanbilgisayar.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit NVIDIA",
         "price": "38k"
@@ -263,11 +193,6 @@
         "where": "jumbum.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X GDDR6X 256Bit NVIDIA Ekra",
         "price": "34k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 16GB SUPRIM X RTX4080, PCI-E16 4.0, 16G",
-        "price": "k"
     },
     {
         "where": "itopya.com",
@@ -295,16 +220,6 @@
         "price": "34k"
     },
     {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC RTX4080, PCI-E16 4.0,",
-        "price": "k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "MSI GeForce RTX 4080 16GB VENTUS 3X RTX4080, PCI-E16 4.0, 16",
-        "price": "k"
-    },
-    {
         "where": "jumbum.com",
         "name": "MSI GeForce RTX4080 VENTUS 3X OC 16GB Ekran Kartı",
         "price": "32k"
@@ -323,11 +238,6 @@
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16G",
         "price": "32k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "PALIT GeForce RTX 4080 GameRock RTX4080, PCI-E16 4.0, 16GB/2",
-        "price": "k"
     },
     {
         "where": "gamegaraj.com",
