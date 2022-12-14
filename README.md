@@ -2,6 +2,7 @@
 
 10 dakikada bir yenilenir.
 
+        "amazon.com.tr"
         "itopya.com",
         "sinerji.gen.tr",
         "tebilon.com",
@@ -14,3 +15,8 @@
         "ebrarbilgisayar.com",
         "pckolik.com",
         "inventus.com.tr"
+        "hedefmarket.com"
+        "teknolojipazar.com"
+        "teknobiyotik.com"
+        "kuantumsanal.com"
+        "novabilgisayar.com"
