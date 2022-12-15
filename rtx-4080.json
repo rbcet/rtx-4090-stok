@@ -30,6 +30,11 @@
         "price": "38k"
     },
     {
+        "where": "tebilon.com",
+        "name": "ASUS ROG Strix GeForce RTX 4080 16GB OC GDDR6X 256Bit NVIDIA",
+        "price": "39k"
+    },
+    {
         "where": "qp.com.tr",
         "name": "Asus ROG Strix GeForce RTX 4080 OC Edition 16GB GDDR6X 256 B",
         "price": "39k"
@@ -68,6 +73,11 @@
         "where": "incehesap.com",
         "name": "Asus TUF Gaming GeForce RTX 4080 TUF-RTX4080-16G-GAMING 16GB",
         "price": "38k"
+    },
+    {
+        "where": "tebilon.com",
+        "name": "ASUS TUF GeForce RTX 4080 16GB OC GDDR6X 256Bit NVIDIA Ekran",
+        "price": "36k"
     },
     {
         "where": "teknolojipazar.com",
