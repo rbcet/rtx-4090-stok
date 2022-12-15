@@ -102,7 +102,7 @@
     {
         "where": "itopya.com",
         "name": "GIGABYTE GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256 Bit Ekran",
-        "price": "36k"
+        "price": "35k"
     },
     {
         "where": "vatanbilgisayar.com",
@@ -138,6 +138,11 @@
         "where": "jumbum.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X Ekran Kartı",
         "price": "31k"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X",
+        "price": "30k"
     },
     {
         "where": "teknolojipazar.com",
@@ -187,7 +192,7 @@
     {
         "where": "itopya.com",
         "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256 Bit E",
-        "price": "38k"
+        "price": "37k"
     },
     {
         "where": "incehesap.com",
