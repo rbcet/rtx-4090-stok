@@ -35,6 +35,11 @@
         "price": "39k"
     },
     {
+        "where": "itopya.com",
+        "name": "ASUS ROG STRIX GeForce RTX 4080 OC Edition 16GB GDDR6X 256 B",
+        "price": "42k"
+    },
+    {
         "where": "gamegaraj.com",
         "name": "ASUS RTX 4080 TUF-RTX4080-16G-GAMING 16GB GDDR6X 256bit",
         "price": "35k"
@@ -57,6 +62,11 @@
     {
         "where": "qp.com.tr",
         "name": "Asus TUF Gaming GeForce RTX 4080 OC Edition 16GB 256 Bit Ekr",
+        "price": "37k"
+    },
+    {
+        "where": "itopya.com",
+        "name": "ASUS TUF GAMING GeForce RTX 4080 OC Edition 16GB GDDR6X 256 ",
         "price": "37k"
     },
     {
