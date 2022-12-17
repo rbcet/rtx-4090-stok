@@ -25,11 +25,6 @@
         "price": "36k"
     },
     {
-        "where": "jumbum.com",
-        "name": "ASUS ROG Strix GeForce RTX 4080 - 16 GB Ekran Kartı",
-        "price": "38k"
-    },
-    {
         "where": "tebilon.com",
         "name": "ASUS ROG Strix GeForce RTX 4080 16GB OC GDDR6X 256Bit NVIDIA",
         "price": "39k"
@@ -163,11 +158,6 @@
         "where": "inventus.com.tr",
         "name": "INNO3D GeForce RTX4080 ICHILL x3 RTX4080, PCI-E16 4.0, 16GB/",
         "price": "32k"
-    },
-    {
-        "where": "inventus.com.tr",
-        "name": "INNO3D GeForce RTX4080 x3 RTX4080, PCI-E16 4.0, 16GB/256bit ",
-        "price": "30k"
     },
     {
         "where": "gamegaraj.com",
