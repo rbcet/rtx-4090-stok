@@ -10,6 +10,11 @@
         "price": "48k"
     },
     {
+        "where": "incehesap.com",
+        "name": "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit DX12 Ga",
+        "price": "45k"
+    },
+    {
         "where": "kuantumsanal.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit Nvidia ",
         "price": "43k"
@@ -18,6 +23,11 @@
         "where": "hedefmarket.com",
         "name": "COLORFUL iGame GeForce RTX 4090 Vulcan OC-V",
         "price": "51k"
+    },
+    {
+        "where": "incehesap.com",
+        "name": "Colorful iGame GeForce RTX 4090 Vulcan OC-V 24GB GDDR6X 384B",
+        "price": "50k"
     },
     {
         "where": "novabilgisayar.com",
