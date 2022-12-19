@@ -91,11 +91,6 @@
     },
     {
         "where": "tebilon.com",
-        "name": "GIGABYTE GeForce RTX 4080 16GB AERO OC 256Bit 16GB GDDR6X NV",
-        "price": "36k"
-    },
-    {
-        "where": "tebilon.com",
         "name": "GIGABYTE GeForce RTX 4080 16GB EAGLE 256Bit 16GB GDDR6X NVID",
         "price": "34k"
     },
@@ -291,7 +286,7 @@
     },
     {
         "where": "incehesap.com",
-        "name": "Zotac Gaming GeForce RTX 4080 16GB AMP Estreme Airo ZT-D4081",
+        "name": "Zotac Gaming GeForce RTX 4080 16GB AMP Extreme Airo ZT-D4081",
         "price": "37k"
     },
     {
