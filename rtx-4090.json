@@ -1,10 +1,5 @@
 [
     {
-        "where": "incehesap.com",
-        "name": "Asus TUF Gaming GeForce RTX 4090 OC TUF-RTX4090-O24G-GAMING ",
-        "price": "49k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
         "price": "43k"
@@ -60,11 +55,6 @@
         "price": "56k"
     },
     {
-        "where": "incehesap.com",
-        "name": "MSI GeForce RTX 4090 SUPRIM X 24G 24GB GDDR6X 384Bit DX12 Ga",
-        "price": "54k"
-    },
-    {
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24G",
         "price": "43k"
@@ -73,6 +63,11 @@
         "where": "jumbum.com",
         "name": "Palit RTX4090 GAMEROCK 24GB 384Bit GDDR6X 3x DP, HDMI Ekran ",
         "price": "41k"
+    },
+    {
+        "where": "tebilon.com",
+        "name": "ZOTAC GeForce RTX 4090 TRINITY 24GB 384Bit GDDR6X Ekran Kart",
+        "price": "45k"
     },
     {
         "where": "vatanbilgisayar.com",
