@@ -95,11 +95,6 @@
         "price": "34k"
     },
     {
-        "where": "incehesap.com",
-        "name": "Gigabyte GeForce RTX 4080 16GB Eagle GV-N4080EAGLE-16GD 16GB",
-        "price": "32k"
-    },
-    {
         "where": "jumbum.com",
         "name": "Gigabyte GeForce RTX 4080 16GB Gaming OC GV-N4080GAMING OC-1",
         "price": "33k"
@@ -185,11 +180,6 @@
         "price": "35k"
     },
     {
-        "where": "incehesap.com",
-        "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit DX12 G",
-        "price": "37k"
-    },
-    {
         "where": "jumbum.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X GDDR6X 256Bit NVIDIA Ekra",
         "price": "34k"
@@ -198,11 +188,6 @@
         "where": "itopya.com",
         "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256 Bit E",
         "price": "38k"
-    },
-    {
-        "where": "incehesap.com",
-        "name": "MSI GeForce RTX 4080 16GB Ventus 3X OC 16GB GDDR6X 256Bit DX",
-        "price": "33k"
     },
     {
         "where": "vatanbilgisayar.com",
@@ -278,21 +263,6 @@
         "where": "teknolojipazar.com",
         "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X NED4080S19T2-10",
         "price": "32k"
-    },
-    {
-        "where": "incehesap.com",
-        "name": "Zotac Gaming GeForce RTX 4080 16GB AMP Extreme Airo ZT-D4081",
-        "price": "33k"
-    },
-    {
-        "where": "incehesap.com",
-        "name": "Zotac Gaming GeForce RTX 4080 16GB Trinity OC ZT-D40810J-10P",
-        "price": "31k"
-    },
-    {
-        "where": "incehesap.com",
-        "name": "Zotac Gaming GeForce RTX 4080 16GB Trinity ZT-D40810D-10P 16",
-        "price": "31k"
     },
     {
         "where": "tebilon.com",
