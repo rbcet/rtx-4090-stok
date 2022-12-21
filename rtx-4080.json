@@ -10,11 +10,6 @@
         "price": "39k"
     },
     {
-        "where": "amazon.com.tr",
-        "name": "ASUS GeForce Rtx 4080 Rog-Strix-Rtx4080-O16G-Gaming 16Gb Gdd",
-        "price": "41k"
-    },
-    {
         "where": "gaming.gen.tr",
         "name": "ASUS GeForce TUF RTX 4080 16GB OC GDDR6X 256 Bit Ekran Kartı",
         "price": "36k"
@@ -312,7 +307,7 @@
     {
         "where": "novabilgisayar.com",
         "name": "ZOTAC RTX 4080 Trinity OC, 16GB, GDDR6X, 256 bit Ekran Kart�",
-        "price": "35k"
+        "price": "34k"
     },
     {
         "where": "novabilgisayar.com",
