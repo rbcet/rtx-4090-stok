@@ -30,11 +30,6 @@
         "price": "39k"
     },
     {
-        "where": "itopya.com",
-        "name": "ASUS ROG STRIX GeForce RTX 4080 OC Edition 16GB GDDR6X 256 B",
-        "price": "42k"
-    },
-    {
         "where": "gamegaraj.com",
         "name": "ASUS RTX 4080 TUF-RTX4080-16G-GAMING 16GB GDDR6X 256bit",
         "price": "35k"
@@ -63,11 +58,6 @@
         "where": "qp.com.tr",
         "name": "Asus TUF Gaming GeForce RTX 4080 OC Edition 16GB 256 Bit Ekr",
         "price": "34k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "ASUS TUF GAMING GeForce RTX 4080 OC Edition 16GB GDDR6X 256 ",
-        "price": "36k"
     },
     {
         "where": "incehesap.com",
@@ -110,11 +100,6 @@
         "price": "33k"
     },
     {
-        "where": "itopya.com",
-        "name": "GIGABYTE GeForce RTX 4080 AERO OC 16GB GDDR6X 256 Bit Ekran ",
-        "price": "39k"
-    },
-    {
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 EAGLE 16GB GDDR6X 256 Bit Ekran Ka",
         "price": "34k"
@@ -122,11 +107,6 @@
     {
         "where": "vatanbilgisayar.com",
         "name": "GIGABYTE GeForce RTX 4080 EAGLE 16GB GDDR6X 256Bit NVIDIA Ek",
-        "price": "37k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "GIGABYTE GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256 Bit Ekran",
         "price": "37k"
     },
     {
@@ -158,11 +138,6 @@
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X 3x DP 1.4a, HDMI 2.1 N4",
         "price": "30k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256 Bit ",
-        "price": "37k"
     },
     {
         "where": "vatanbilgisayar.com",
@@ -208,11 +183,6 @@
         "where": "jumbum.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X GDDR6X 256Bit NVIDIA Ekra",
         "price": "34k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256 Bit E",
-        "price": "36k"
     },
     {
         "where": "incehesap.com",
