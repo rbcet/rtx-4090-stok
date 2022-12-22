@@ -185,6 +185,11 @@
         "price": "37k"
     },
     {
+        "where": "qp.com.tr",
+        "name": "MSI Geforce RTX 4080 16GB SUPRIM X 16GB GGDR6X 256 Bit Ekran",
+        "price": "38k"
+    },
+    {
         "where": "jumbum.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X GDDR6X 256Bit NVIDIA Ekra",
         "price": "34k"
@@ -237,7 +242,7 @@
     {
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16G",
-        "price": "29k"
+        "price": "34k"
     },
     {
         "where": "jumbum.com",
@@ -278,11 +283,6 @@
         "where": "teknolojipazar.com",
         "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X NED4080S19T2-10",
         "price": "32k"
-    },
-    {
-        "where": "amazon.com.tr",
-        "name": "PNY GeForce RTX® 4080 16GB XLR8 Gaming Verto Epic-X RGB™ Ove",
-        "price": "34k"
     },
     {
         "where": "incehesap.com",
