@@ -150,6 +150,11 @@
         "price": "32k"
     },
     {
+        "where": "teknolojipazar.com",
+        "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X C40803-166XX-187",
+        "price": "32k"
+    },
+    {
         "where": "jumbum.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X Ekran Kartı",
         "price": "30k"
@@ -342,7 +347,7 @@
     {
         "where": "teknolojipazar.com",
         "name": "Zotac Nvidia 16Gb Gddr6X RTX4080 Trinity ZT-D40810D-10P 256B",
-        "price": "31k"
+        "price": "32k"
     },
     {
         "where": "novabilgisayar.com",
