@@ -170,6 +170,11 @@
         "price": "30k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "MSI GeForce RTX 4080 16 GB Gaming X Trio Gaming Grafik Kartı",
+        "price": "29k"
+    },
+    {
         "where": "itopya.com",
         "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256 Bit ",
         "price": "37k"
