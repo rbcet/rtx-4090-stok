@@ -10,6 +10,11 @@
         "price": "50k"
     },
     {
+        "where": "qp.com.tr",
+        "name": "Asus TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X 384 ",
+        "price": "49k"
+    },
+    {
         "where": "teknolojipazar.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
         "price": "43k"
@@ -43,6 +48,11 @@
         "where": "novabilgisayar.com",
         "name": "COLORFUL RTX 4090 NB EX-V, 24GB, 384 Bit, GDDR6X Ekran Kart�",
         "price": "47k"
+    },
+    {
+        "where": "amazon.com.tr",
+        "name": "Gainward VGA RTX4090 24GB Phantom, NED4090019SB-1020P",
+        "price": "45k"
     },
     {
         "where": "teknobiyotik.com",
