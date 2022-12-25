@@ -325,6 +325,11 @@
         "price": "32k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "PNY GeForce RTX® 4080 16GB XLR8 Gaming Verto Epic-X RGB™ Ove",
+        "price": "34k"
+    },
+    {
         "where": "incehesap.com",
         "name": "Zotac Gaming GeForce RTX 4080 16GB AMP Extreme Airo ZT-D4081",
         "price": "33k"
