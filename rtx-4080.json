@@ -45,16 +45,6 @@
         "price": "35k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "ASUS RTX 4080 TUF-RTX4080-16G-GAMING 16GB GDDR6X 256bit",
-        "price": "35k"
-    },
-    {
-        "where": "gamegaraj.com",
-        "name": "ASUS RTX 4080 TUF-RTX4080-O16G-GAMING 16GB GDDR6X 256bit",
-        "price": "35k"
-    },
-    {
         "where": "jumbum.com",
         "name": "ASUS TUF Gaming GeForce RTX 4080 - OC Edition - 16 GB Ekran ",
         "price": "34k"
@@ -150,11 +140,6 @@
         "price": "32k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X",
-        "price": "32k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X 3x DP 1.4a, HDMI",
         "price": "32k"
@@ -218,11 +203,6 @@
         "where": "qp.com.tr",
         "name": "MSI Geforce RTX 4080 16GB SUPRIM X 16GB GGDR6X 256 Bit Ekran",
         "price": "38k"
-    },
-    {
-        "where": "gamegaraj.com",
-        "name": "MSI GeForce RTX 4080 16GB SUPRIM X GDDR6X 256Bit",
-        "price": "36k"
     },
     {
         "where": "jumbum.com",
@@ -290,11 +270,6 @@
         "price": "30k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X",
-        "price": "31k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X 3x DP, HDMI NED408",
         "price": "31k"
@@ -303,11 +278,6 @@
         "where": "jumbum.com",
         "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X Ekran Kartı",
         "price": "29k"
-    },
-    {
-        "where": "gamegaraj.com",
-        "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
-        "price": "32k"
     },
     {
         "where": "jumbum.com",
