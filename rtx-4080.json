@@ -10,6 +10,11 @@
         "price": "39k"
     },
     {
+        "where": "sinerji.gen.tr",
+        "name": "Asus GeForce RTX 4080 TUF Gaming O16G 16GB GDDR6X 256 Bit Ek",
+        "price": "28k"
+    },
+    {
         "where": "amazon.com.tr",
         "name": "ASUS GeForce Rtx 4080 Tuf-Rtx4080-O16G-Gaming 16Gb Gddr6X 25",
         "price": "38k"
@@ -168,6 +173,11 @@
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X 3x DP 1.4a, HDMI 2.1 N4",
         "price": "30k"
+    },
+    {
+        "where": "jumbum.com",
+        "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X Ekran Kartı",
+        "price": "29k"
     },
     {
         "where": "itopya.com",
