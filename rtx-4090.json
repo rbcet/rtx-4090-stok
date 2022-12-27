@@ -40,6 +40,11 @@
         "price": "45k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "Gigabyte GBT RTX4090 24GB Gaming OC, GV-N4090GAMING OC-24GD",
+        "price": "41k"
+    },
+    {
         "where": "inventus.com.tr",
         "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24G GV-N4090GAMING OC-24",
         "price": "49k"
