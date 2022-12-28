@@ -35,6 +35,11 @@
         "price": "46k"
     },
     {
+        "where": "teknolojipazar.com",
+        "name": "GAINWARD RTX4090 24GB PHANTOM EW-NED4090019SB-1020P GDDR6X 3",
+        "price": "42k"
+    },
+    {
         "where": "teknobiyotik.com",
         "name": "Galax GeForce RTX4090 SG (1-Click OC) 24GB 384Bit GDDR6X PCI",
         "price": "45k"
@@ -43,11 +48,6 @@
         "where": "inventus.com.tr",
         "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24G GV-N4090GAMING OC-24",
         "price": "49k"
-    },
-    {
-        "where": "tebilon.com",
-        "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB 384Bit GDDR6X NVIDI",
-        "price": "48k"
     },
     {
         "where": "qp.com.tr",
@@ -65,18 +65,8 @@
         "price": "43k"
     },
     {
-        "where": "tebilon.com",
-        "name": "ZOTAC GeForce RTX 4090 TRINITY 24GB 384Bit GDDR6X Ekran Kart",
-        "price": "45k"
-    },
-    {
         "where": "vatanbilgisayar.com",
         "name": "ZOTAC GeForce RTX 4090 TRINITY GAMING OC 24GB GDDR6X 384Bit ",
         "price": "47k"
-    },
-    {
-        "where": "tebilon.com",
-        "name": "ZOTAC GeForce RTX 4090 TRINITY O.C. 24GB GDDR6X 384Bit Nvidi",
-        "price": "46k"
     }
 ]
