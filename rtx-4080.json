@@ -120,6 +120,11 @@
         "price": "37k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "Gigabyte GIGA VGA 16GB RTX4080 Xtreme Water Force WB 3xDP/3x",
+        "price": "35k"
+    },
+    {
         "where": "inventus.com.tr",
         "name": "INNO3D GeForce RTX4080 ICHILL x3 RTX4080, PCI-E16 4.0, 16GB/",
         "price": "32k"
