@@ -216,11 +216,6 @@
     },
     {
         "where": "gaming.gen.tr",
-        "name": "MSI GeForce RTX 4080 GAMING X TRIO 16 GB GDDR6X 256 Bit Ekra",
-        "price": "35k"
-    },
-    {
-        "where": "gaming.gen.tr",
         "name": "MSI GeForce RTX 4080 VENTUS 3X OC 16GB GDDR6X 256 Bit Ekran ",
         "price": "34k"
     },
@@ -252,7 +247,7 @@
     {
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16G",
-        "price": "29k"
+        "price": "34k"
     },
     {
         "where": "jumbum.com",
