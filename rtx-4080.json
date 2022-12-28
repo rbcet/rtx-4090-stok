@@ -90,11 +90,6 @@
         "price": "32k"
     },
     {
-        "where": "teknolojipazar.com",
-        "name": "GALAX RTX4080 16GB 1 CLICK OC 48NZM6MD6LSG GDDR6X 256bit HDM",
-        "price": "33k"
-    },
-    {
         "where": "tebilon.com",
         "name": "GIGABYTE GeForce RTX 4080 16GB EAGLE 256Bit 16GB GDDR6X NVID",
         "price": "34k"
@@ -133,21 +128,6 @@
         "where": "gamegaraj.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X",
         "price": "32k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X 3x DP 1.4a, HDMI",
-        "price": "32k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X C40803-166XX-187",
-        "price": "32k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X 3x DP 1.4a, HDMI 2.1 N4",
-        "price": "30k"
     },
     {
         "where": "jumbum.com",
@@ -232,22 +212,12 @@
     {
         "where": "novabilgisayar.com",
         "name": "MSI RTX 4080 16GB SUPRIM X, 16GB, GDDR6X, 256-bit Ekran Kart",
-        "price": "36k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "MSI RTX 4080 SUPRIM X 16G GDDR6X HDMI DP 256Bit",
-        "price": "38k"
+        "price": "37k"
     },
     {
         "where": "hedefmarket.com",
         "name": "MSI RTX 4080 SUPRIM X 16G GDDR6X HDMI DP 256Bit",
         "price": "43k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "MSI RTX4080 16GB SUPRIM X GDDR6X 256 Bit HDMI DP PCIe 16X v4",
-        "price": "36k"
     },
     {
         "where": "inventus.com.tr",
@@ -265,11 +235,6 @@
         "price": "31k"
     },
     {
-        "where": "teknolojipazar.com",
-        "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X 3x DP, HDMI NED408",
-        "price": "31k"
-    },
-    {
         "where": "jumbum.com",
         "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X Ekran Kartı",
         "price": "30k"
@@ -283,11 +248,6 @@
         "where": "jumbum.com",
         "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X Ekran Kartı",
         "price": "31k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X NED4080S19T2-10",
-        "price": "32k"
     },
     {
         "where": "incehesap.com",
@@ -317,17 +277,12 @@
     {
         "where": "novabilgisayar.com",
         "name": "ZOTAC RTX 4080 Trinity OC, 16GB, GDDR6X, 256 bit Ekran Kart�",
-        "price": "33k"
+        "price": "34k"
     },
     {
         "where": "novabilgisayar.com",
         "name": "ZOTAC RTX 4080 Trinity, 16GB, GDDR6X, 256 bit Ekran Kart� ZT",
         "price": "32k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810B-10P 16GB GDDR6X HDMI DP 256Bit",
-        "price": "36k"
     },
     {
         "where": "hedefmarket.com",
@@ -340,11 +295,6 @@
         "price": "34k"
     },
     {
-        "where": "teknolojipazar.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
-        "price": "32k"
-    },
-    {
         "where": "hedefmarket.com",
         "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
         "price": "36k"
@@ -353,10 +303,5 @@
         "where": "jumbum.com",
         "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit Ekr",
         "price": "31k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "Zotac Vga Nvidia 16Gb Gddr6X Rtx4080 Trinity Oc ZT-D40810J-1",
-        "price": "33k"
     }
 ]
