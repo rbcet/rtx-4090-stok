@@ -80,6 +80,11 @@
         "price": "47k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "Inno3D GEFORCE RTX 4090 ICHILL X3 24Go",
+        "price": "47k"
+    },
+    {
         "where": "gamegaraj.com",
         "name": "Inno3D RTX4090 ICHILL X3 24GB 384Bit GDDR6X",
         "price": "44k"
@@ -93,11 +98,6 @@
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24G",
         "price": "43k"
-    },
-    {
-        "where": "tebilon.com",
-        "name": "ZOTAC GeForce RTX 4090 TRINITY 24GB 384Bit GDDR6X Ekran Kart",
-        "price": "45k"
     },
     {
         "where": "vatanbilgisayar.com",
