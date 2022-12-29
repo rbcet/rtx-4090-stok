@@ -45,6 +45,11 @@
         "price": "56k"
     },
     {
+        "where": "tebilon.com",
+        "name": "GIGABYTE GeForce RTX 4090 GAMING O.C. 24GB GDDR6X 384Bit NVI",
+        "price": "52k"
+    },
+    {
         "where": "inventus.com.tr",
         "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24G GV-N4090GAMING OC-24",
         "price": "49k"
@@ -57,7 +62,7 @@
     {
         "where": "tebilon.com",
         "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB 384Bit GDDR6X NVIDI",
-        "price": "48k"
+        "price": "47k"
     },
     {
         "where": "qp.com.tr",
@@ -112,6 +117,6 @@
     {
         "where": "tebilon.com",
         "name": "ZOTAC GeForce RTX 4090 TRINITY O.C. 24GB GDDR6X 384Bit Nvidi",
-        "price": "47k"
+        "price": "45k"
     }
 ]
