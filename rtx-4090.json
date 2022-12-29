@@ -25,6 +25,11 @@
         "price": "42k"
     },
     {
+        "where": "kuantumsanal.com",
+        "name": "COLORFUL GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit Nvidia ",
+        "price": "42k"
+    },
+    {
         "where": "novabilgisayar.com",
         "name": "COLORFUL RTX 4090 NB EX-V, 24GB, 384 Bit, GDDR6X Ekran Kart�",
         "price": "47k"
@@ -73,6 +78,11 @@
         "where": "ebrarbilgisayar.com",
         "name": "Gigabyte GeForce RTX 4090 WINDFORCE 3X 24GB 384Bit GDDR6X",
         "price": "47k"
+    },
+    {
+        "where": "inventus.com.tr",
+        "name": "INNO3D GeForce RTX 4090 ICHILL X3 RTX4090, PCI-E16 4.0, 24GB",
+        "price": "44k"
     },
     {
         "where": "gamegaraj.com",
