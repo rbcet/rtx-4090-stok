@@ -5,11 +5,6 @@
         "price": "47k"
     },
     {
-        "where": "vatanbilgisayar.com",
-        "name": "ASUS GeForce TUF RTX 4090 GAMING OC 24GB GDDR6X 384Bit NVIDI",
-        "price": "50k"
-    },
-    {
         "where": "qp.com.tr",
         "name": "Asus TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X 384 ",
         "price": "49k"
@@ -128,6 +123,11 @@
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4090 x3 OC 24GB 384Bit GDDR6X N40903-246XX-1833298",
         "price": "43k"
+    },
+    {
+        "where": "incehesap.com",
+        "name": "MSI GeForce RTX 4090 GAMING X TRIO 24G 24GB GDDR6X 384Bit DX",
+        "price": "52k"
     },
     {
         "where": "tebilon.com",
