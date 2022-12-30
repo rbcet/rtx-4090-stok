@@ -170,6 +170,11 @@
         "price": "33k"
     },
     {
+        "where": "qp.com.tr",
+        "name": "MSI Geforce RTX 4080 16GB GAMING X TRIO 16GB GGDR6X 256 Bit ",
+        "price": "36k"
+    },
+    {
         "where": "tebilon.com",
         "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO GDDR6X 256Bit NVIDIA",
         "price": "35k"
@@ -243,6 +248,11 @@
         "where": "novabilgisayar.com",
         "name": "MSI RTX 4080 16GB SUPRIM X, 16GB, GDDR6X, 256-bit Ekran Kart",
         "price": "37k"
+    },
+    {
+        "where": "novabilgisayar.com",
+        "name": "MSI RTX 4080 GAMING X TRIO, 16GB, GDDR6X, 256-bit Ekran Kart",
+        "price": "35k"
     },
     {
         "where": "teknolojipazar.com",
