@@ -12,7 +12,7 @@
     {
         "where": "amazon.com.tr",
         "name": "ASUS GeForce Rtx 4080 Tuf-Rtx4080-O16G-Gaming 16Gb Gddr6X 25",
-        "price": "38k"
+        "price": "39k"
     },
     {
         "where": "gaming.gen.tr",
@@ -75,16 +75,6 @@
         "price": "36k"
     },
     {
-        "where": "tebilon.com",
-        "name": "ASUS TUF GeForce RTX 4080 16GB OC GDDR6X 256Bit NVIDIA Ekran",
-        "price": "35k"
-    },
-    {
-        "where": "hedefmarket.com",
-        "name": "ASUS TUF-RTX4080-16G-GAMING 16GB GDDR6X HDMI DP 256Bit",
-        "price": "43k"
-    },
-    {
         "where": "teknobiyotik.com",
         "name": "Galax GeForce RTX4080 SG (1-Click OC) 16GB 256Bit GDDR6X PCI",
         "price": "32k"
@@ -123,6 +113,11 @@
         "where": "vatanbilgisayar.com",
         "name": "GIGABYTE GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256Bit NVIDIA",
         "price": "37k"
+    },
+    {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekra",
+        "price": "36k"
     },
     {
         "where": "inventus.com.tr",
@@ -251,6 +246,11 @@
     },
     {
         "where": "hedefmarket.com",
+        "name": "MSI GEFORCE RTX 4080 GAMING X TRIO 16G 16GB GDDR6X DP HDMI 2",
+        "price": "41k"
+    },
+    {
+        "where": "hedefmarket.com",
         "name": "MSI GEFORCE RTX 4080 SUPRIM X 16G 16GB GDDR6X HDMI DP 256Bit",
         "price": "43k"
     },
@@ -292,7 +292,7 @@
     {
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16G",
-        "price": "29k"
+        "price": "34k"
     },
     {
         "where": "jumbum.com",
