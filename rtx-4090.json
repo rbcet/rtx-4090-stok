@@ -1,5 +1,10 @@
 [
     {
+        "where": "qp.com.tr",
+        "name": "Asus TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X 384 ",
+        "price": "49k"
+    },
+    {
         "where": "teknolojipazar.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
         "price": "43k"
@@ -50,6 +55,11 @@
         "price": "49k"
     },
     {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
+        "price": "51k"
+    },
+    {
         "where": "itopya.com",
         "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
         "price": "53k"
@@ -63,6 +73,11 @@
         "where": "tebilon.com",
         "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB 384Bit GDDR6X NVIDI",
         "price": "47k"
+    },
+    {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384 Bit Ekra",
+        "price": "48k"
     },
     {
         "where": "itopya.com",
@@ -115,6 +130,11 @@
         "price": "56k"
     },
     {
+        "where": "qp.com.tr",
+        "name": "MSI Geforce RTX 4090 GAMING X TRIO 24G 24GB GGDR6X 384 Bit E",
+        "price": "49k"
+    },
+    {
         "where": "gaming.gen.tr",
         "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384 Bit Ekran",
         "price": "51k"
@@ -123,6 +143,11 @@
         "where": "teknolojipazar.com",
         "name": "MSI RTX 4090 GAMING X TRIO 24G 24GB Geforce RTX4090 GDDR6X 3",
         "price": "46k"
+    },
+    {
+        "where": "novabilgisayar.com",
+        "name": "MSI RTX 4090 GAMING X TRIO 24G, 24GB, GDDR6X, 384-bit Ekran ",
+        "price": "49k"
     },
     {
         "where": "jumbum.com",
