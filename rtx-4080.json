@@ -42,7 +42,7 @@
     {
         "where": "novabilgisayar.com",
         "name": "ASUS RTX 4080 TUF GAMING OC, 16GB, GDDR6X, 256-bit Ekran Kar",
-        "price": "35k"
+        "price": "34k"
     },
     {
         "where": "jumbum.com",
@@ -108,6 +108,11 @@
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekra",
         "price": "36k"
+    },
+    {
+        "where": "itopya.com",
+        "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekra",
+        "price": "38k"
     },
     {
         "where": "inventus.com.tr",
