@@ -130,6 +130,11 @@
         "price": "56k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "MSI GeForce RTX 4090 Gaming X Trio 24G Oyun Ekran Kartı - NV",
+        "price": "47k"
+    },
+    {
         "where": "gaming.gen.tr",
         "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384 Bit Ekran",
         "price": "51k"
