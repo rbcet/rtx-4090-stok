@@ -11,6 +11,11 @@
     },
     {
         "where": "teknolojipazar.com",
+        "name": "COLORFUL 24GB RTX4090 BATTLE AX EX-V GDDR6X 384bit HDMI-DP P",
+        "price": "43k"
+    },
+    {
+        "where": "teknolojipazar.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
         "price": "43k"
     },
@@ -198,10 +203,5 @@
         "where": "vatanbilgisayar.com",
         "name": "ZOTAC GeForce RTX 4090 TRINITY GAMING OC 24GB GDDR6X 384Bit ",
         "price": "47k"
-    },
-    {
-        "where": "tebilon.com",
-        "name": "ZOTAC GeForce RTX 4090 TRINITY O.C. 24GB GDDR6X 384Bit Nvidi",
-        "price": "45k"
     }
 ]
