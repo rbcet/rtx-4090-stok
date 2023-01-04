@@ -65,11 +65,6 @@
         "price": "34k"
     },
     {
-        "where": "itopya.com",
-        "name": "ASUS TUF GAMING GeForce RTX 4080 OC Edition 16GB GDDR6X 256 ",
-        "price": "36k"
-    },
-    {
         "where": "incehesap.com",
         "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING ",
         "price": "36k"
@@ -148,6 +143,11 @@
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X C40803-166XX-187",
         "price": "32k"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X",
+        "price": "31k"
     },
     {
         "where": "teknolojipazar.com",
