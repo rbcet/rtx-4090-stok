@@ -65,6 +65,11 @@
         "price": "34k"
     },
     {
+        "where": "itopya.com",
+        "name": "ASUS TUF GAMING GeForce RTX 4080 OC Edition 16GB GDDR6X 256 ",
+        "price": "36k"
+    },
+    {
         "where": "incehesap.com",
         "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING ",
         "price": "36k"
@@ -88,6 +93,11 @@
         "where": "incehesap.com",
         "name": "Gigabyte GeForce RTX 4080 16GB Eagle GV-N4080EAGLE-16GD 16GB",
         "price": "34k"
+    },
+    {
+        "where": "incehesap.com",
+        "name": "Gigabyte GeForce RTX 4080 16GB Gaming OC GV-N4080GAMING OC-1",
+        "price": "39k"
     },
     {
         "where": "jumbum.com",
