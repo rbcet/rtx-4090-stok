@@ -60,6 +60,11 @@
         "price": "49k"
     },
     {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
+        "price": "51k"
+    },
+    {
         "where": "itopya.com",
         "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
         "price": "52k"
@@ -73,6 +78,11 @@
         "where": "tebilon.com",
         "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB 384Bit GDDR6X NVIDI",
         "price": "46k"
+    },
+    {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384 Bit Ekra",
+        "price": "48k"
     },
     {
         "where": "vatanbilgisayar.com",
