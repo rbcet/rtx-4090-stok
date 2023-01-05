@@ -1,5 +1,15 @@
 [
     {
+        "where": "vatanbilgisayar.com",
+        "name": "ASUS GeForce TUF RTX 4090 GAMING OC 24GB GDDR6X 384Bit NVIDI",
+        "price": "50k"
+    },
+    {
+        "where": "incehesap.com",
+        "name": "Asus TUF Gaming GeForce RTX 4090 OC TUF-RTX4090-O24G-GAMING ",
+        "price": "50k"
+    },
+    {
         "where": "hedefmarket.com",
         "name": "ASUS TUF-RTX4090-O24G-GAMING 24GB GDDR6X HDMI DP 384Bit",
         "price": "60k"
@@ -18,6 +28,11 @@
         "where": "hedefmarket.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
         "price": "48k"
+    },
+    {
+        "where": "incehesap.com",
+        "name": "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit DX12 Ga",
+        "price": "46k"
     },
     {
         "where": "kuantumsanal.com",
@@ -40,6 +55,46 @@
         "price": "44k"
     },
     {
+        "where": "tebilon.com",
+        "name": "GIGABYTE GeForce RTX 4090 GAMING O.C. 24GB GDDR6X 384Bit NVI",
+        "price": "51k"
+    },
+    {
+        "where": "incehesap.com",
+        "name": "Gigabyte GeForce RTX 4090 Gaming OC 24G GV-N4090GAMING OC-24",
+        "price": "49k"
+    },
+    {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
+        "price": "50k"
+    },
+    {
+        "where": "itopya.com",
+        "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
+        "price": "52k"
+    },
+    {
+        "where": "vatanbilgisayar.com",
+        "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X 384Bit NVIDI",
+        "price": "55k"
+    },
+    {
+        "where": "tebilon.com",
+        "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB 384Bit GDDR6X NVIDI",
+        "price": "46k"
+    },
+    {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384 Bit Ekra",
+        "price": "46k"
+    },
+    {
+        "where": "vatanbilgisayar.com",
+        "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384Bit NVIDI",
+        "price": "51k"
+    },
+    {
         "where": "ebrarbilgisayar.com",
         "name": "Gigabyte GeForce RTX 4090 WINDFORCE 3X 24GB 384Bit GDDR6X",
         "price": "47k"
@@ -50,8 +105,18 @@
         "price": "43k"
     },
     {
+        "where": "gamegaraj.com",
+        "name": "Inno3D RTX4090 ICHILL X3 24GB 384Bit GDDR6X",
+        "price": "45k"
+    },
+    {
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4090 ICHILL x3 24GB 384Bit GDDR6X C40903-246XX-183",
+        "price": "44k"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "Inno3D RTX4090 X3 OC 24GB 384Bit GDDR6X",
         "price": "44k"
     },
     {
@@ -60,9 +125,24 @@
         "price": "43k"
     },
     {
+        "where": "incehesap.com",
+        "name": "MSI GeForce RTX 4090 GAMING TRIO 24G 24GB GDDR6X 384Bit DX12",
+        "price": "44k"
+    },
+    {
         "where": "teknolojipazar.com",
         "name": "MSI GEFORCE RTX 4090 GAMING X TRIO 24G 24GB GDDR6X DP HDMI 3",
         "price": "56k"
+    },
+    {
+        "where": "gaming.gen.tr",
+        "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384 Bit Ekran",
+        "price": "52k"
+    },
+    {
+        "where": "vatanbilgisayar.com",
+        "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384Bit NVIDIA",
+        "price": "49k"
     },
     {
         "where": "jumbum.com",
@@ -75,9 +155,19 @@
         "price": "46k"
     },
     {
+        "where": "gamegaraj.com",
+        "name": "MSI RTX 4090 GAMING X TRIO 24G RTX4090 24GB GDDR6X 384B DX12",
+        "price": "46k"
+    },
+    {
         "where": "novabilgisayar.com",
         "name": "MSI RTX 4090 GAMING X TRIO 24G, 24GB, GDDR6X, 384-bit Ekran ",
         "price": "48k"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "MSI RTX 4090 VENTUS 3X 24G OC GDDR6X 384B DX12 PCIE 4.0 X16",
+        "price": "45k"
     },
     {
         "where": "jumbum.com",
@@ -88,5 +178,10 @@
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24G",
         "price": "43k"
+    },
+    {
+        "where": "vatanbilgisayar.com",
+        "name": "ZOTAC GeForce RTX 4090 TRINITY GAMING OC 24GB GDDR6X 384Bit ",
+        "price": "47k"
     }
 ]
