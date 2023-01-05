@@ -40,11 +40,6 @@
         "price": "38k"
     },
     {
-        "where": "jumbum.com",
-        "name": "ASUS ROG-STRIX-RTX4080-O16G-GAMING 16GB 256 bit  GDDR6X/OC E",
-        "price": "35k"
-    },
-    {
         "where": "novabilgisayar.com",
         "name": "ASUS RTX 4080 TUF GAMING OC, 16GB, GDDR6X, 256-bit Ekran Kar",
         "price": "34k"
@@ -68,6 +63,11 @@
         "where": "incehesap.com",
         "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING ",
         "price": "36k"
+    },
+    {
+        "where": "jumbum.com",
+        "name": "Gainward GeForce RTX 4080 Phantom 16GB GDDR6X PCI-Express Ek",
+        "price": "32k"
     },
     {
         "where": "teknobiyotik.com",
