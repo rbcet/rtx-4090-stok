@@ -35,11 +35,6 @@
         "price": "39k"
     },
     {
-        "where": "itopya.com",
-        "name": "ASUS ROG STRIX GeForce RTX 4080 OC Edition 16GB GDDR6X 256 B",
-        "price": "38k"
-    },
-    {
         "where": "jumbum.com",
         "name": "ASUS ROG-STRIX-RTX4080-O16G-GAMING 16GB 256 bit  GDDR6X/OC E",
         "price": "35k"
@@ -318,6 +313,11 @@
         "where": "gamegaraj.com",
         "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
         "price": "33k"
+    },
+    {
+        "where": "amazon.com.tr",
+        "name": "PNY GeForce RTX® 4080 16GB XLR8 Gaming Verto Epic-X RGB™ Ove",
+        "price": "34k"
     },
     {
         "where": "incehesap.com",
