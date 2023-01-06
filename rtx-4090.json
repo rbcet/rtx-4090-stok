@@ -80,11 +80,6 @@
         "price": "46k"
     },
     {
-        "where": "qp.com.tr",
-        "name": "Gigabyte GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384 Bit Ekra",
-        "price": "46k"
-    },
-    {
         "where": "vatanbilgisayar.com",
         "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384Bit NVIDI",
         "price": "51k"
@@ -132,11 +127,6 @@
     {
         "where": "jumbum.com",
         "name": "MSI GEFORCE RTX 4090 SUPRIM X 24G - VIDEO CARD, NVIDIA, 24GB",
-        "price": "46k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "MSI RTX 4090 GAMING X TRIO 24G 24GB Geforce RTX4090 GDDR6X 3",
         "price": "46k"
     },
     {
