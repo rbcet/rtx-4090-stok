@@ -5,6 +5,11 @@
         "price": "50k"
     },
     {
+        "where": "gaming.gen.tr",
+        "name": "ASUS ROG STRIX GeForce RTX 4090 24GB OC GDDR6X 384 Bit Ekran",
+        "price": "58k"
+    },
+    {
         "where": "incehesap.com",
         "name": "Asus TUF Gaming GeForce RTX 4090 OC TUF-RTX4090-O24G-GAMING ",
         "price": "50k"
@@ -102,7 +107,7 @@
     {
         "where": "inventus.com.tr",
         "name": "INNO3D GeForce RTX 4090 ICHILL X3 RTX4090, PCI-E16 4.0, 24GB",
-        "price": "43k"
+        "price": "42k"
     },
     {
         "where": "gamegaraj.com",
