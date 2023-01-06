@@ -90,6 +90,11 @@
         "price": "39k"
     },
     {
+        "where": "vatanbilgisayar.com",
+        "name": "GIGABYTE GeForce RTX 4080 AERO OC 16GB GDDR6X 256Bit NVIDIA ",
+        "price": "40k"
+    },
+    {
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 EAGLE 16GB GDDR6X 256 Bit Ekran Ka",
         "price": "34k"
@@ -113,6 +118,11 @@
         "where": "itopya.com",
         "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekra",
         "price": "38k"
+    },
+    {
+        "where": "vatanbilgisayar.com",
+        "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256Bit NVIDI",
+        "price": "39k"
     },
     {
         "where": "inventus.com.tr",
