@@ -5,11 +5,6 @@
         "price": "50k"
     },
     {
-        "where": "gaming.gen.tr",
-        "name": "ASUS ROG STRIX GeForce RTX 4090 24GB OC GDDR6X 384 Bit Ekran",
-        "price": "58k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "COLORFUL 24GB RTX4090 BATTLE AX EX-V GDDR6X 384bit HDMI-DP P",
         "price": "43k"
@@ -23,11 +18,6 @@
         "where": "hedefmarket.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
         "price": "48k"
-    },
-    {
-        "where": "incehesap.com",
-        "name": "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit DX12 Ga",
-        "price": "46k"
     },
     {
         "where": "kuantumsanal.com",
@@ -47,11 +37,6 @@
     {
         "where": "teknobiyotik.com",
         "name": "Galax GeForce RTX4090 SG (1-Click OC) 24GB 384Bit GDDR6X PCI",
-        "price": "44k"
-    },
-    {
-        "where": "amazon.com.tr",
-        "name": "GeForce RTX 4090 SUPRIM X 24G",
         "price": "44k"
     },
     {
