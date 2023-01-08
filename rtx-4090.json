@@ -55,6 +55,11 @@
         "price": "49k"
     },
     {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
+        "price": "50k"
+    },
+    {
         "where": "itopya.com",
         "name": "GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
         "price": "52k"
@@ -115,11 +120,6 @@
         "price": "49k"
     },
     {
-        "where": "amazon.com.tr",
-        "name": "MSI GeForce RTX 4090 SUPRIM Liquid X 24G",
-        "price": "49k"
-    },
-    {
         "where": "jumbum.com",
         "name": "MSI GEFORCE RTX 4090 SUPRIM X 24G - VIDEO CARD, NVIDIA, 24GB",
         "price": "46k"
@@ -143,6 +143,11 @@
         "where": "jumbum.com",
         "name": "MSI VGA RTX 4090 GAMING X TRIO 24G GDDR6X 384Bit (3xDP 1xHDM",
         "price": "46k"
+    },
+    {
+        "where": "inventus.com.tr",
+        "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24G",
+        "price": "43k"
     },
     {
         "where": "vatanbilgisayar.com",
