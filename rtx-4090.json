@@ -22,7 +22,7 @@
     {
         "where": "incehesap.com",
         "name": "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X 384Bit DX12 Ga",
-        "price": "46k"
+        "price": "45k"
     },
     {
         "where": "kuantumsanal.com",
@@ -58,6 +58,11 @@
         "where": "incehesap.com",
         "name": "Gigabyte GeForce RTX 4090 Gaming OC 24G GV-N4090GAMING OC-24",
         "price": "49k"
+    },
+    {
+        "where": "qp.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 GAMING OC 24GB GDDR6X 384 Bit Ekra",
+        "price": "50k"
     },
     {
         "where": "itopya.com",
