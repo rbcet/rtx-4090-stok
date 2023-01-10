@@ -10,11 +10,6 @@
         "price": "56k"
     },
     {
-        "where": "teknolojipazar.com",
-        "name": "ASUS RTX4090 24GB TUF-RTX4090-O24G GDDR6X 384bit HDMI DP PCI",
-        "price": "45k"
-    },
-    {
         "where": "qp.com.tr",
         "name": "Asus TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X 384 ",
         "price": "49k"
@@ -28,6 +23,11 @@
         "where": "teknolojipazar.com",
         "name": "COLORFUL GeForce RTX 4090 NB EX-V",
         "price": "43k"
+    },
+    {
+        "where": "hedefmarket.com",
+        "name": "COLORFUL GeForce RTX 4090 NB EX-V",
+        "price": "48k"
     },
     {
         "where": "kuantumsanal.com",
