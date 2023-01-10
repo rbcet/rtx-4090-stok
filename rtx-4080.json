@@ -60,6 +60,16 @@
         "price": "34k"
     },
     {
+        "where": "incehesap.com",
+        "name": "Asus TUF Gaming GeForce RTX 4080 OC TUF-RTX4080-O16G-GAMING ",
+        "price": "36k"
+    },
+    {
+        "where": "hedefmarket.com",
+        "name": "ASUS TUF-RTX4080-O16G-GAMING GDDR6X HDMI DP 256Bit",
+        "price": "44k"
+    },
+    {
         "where": "jumbum.com",
         "name": "Gainward GeForce RTX 4080 Phantom 16GB GDDR6X PCI-Express Ek",
         "price": "31k"
@@ -167,11 +177,6 @@
     {
         "where": "itopya.com",
         "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256 Bit ",
-        "price": "35k"
-    },
-    {
-        "where": "incehesap.com",
-        "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256Bit D",
         "price": "35k"
     },
     {
