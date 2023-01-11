@@ -80,6 +80,11 @@
         "price": "31k"
     },
     {
+        "where": "teknobiyotik.com",
+        "name": "Galax GeForce RTX4080 SG (1-Click OC) 16GB 256Bit GDDR6X PCI",
+        "price": "33k"
+    },
+    {
         "where": "teknolojipazar.com",
         "name": "GALAX RTX4080 16GB 1 CLICK OC 48NZM6MD6LSG GDDR6X 256bit HDM",
         "price": "33k"
@@ -223,11 +228,6 @@
         "where": "qp.com.tr",
         "name": "MSI Geforce RTX 4080 16GB SUPRIM X 16GB GGDR6X 256 Bit Ekran",
         "price": "38k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256 Bit E",
-        "price": "36k"
     },
     {
         "where": "vatanbilgisayar.com",
