@@ -65,11 +65,6 @@
         "price": "34k"
     },
     {
-        "where": "teknolojipazar.com",
-        "name": "ASUS TUF-RTX4080-O16G-GAMING GDDR6X HDMI DP 256Bit",
-        "price": "40k"
-    },
-    {
         "where": "jumbum.com",
         "name": "Gainward GeForce RTX 4080 Phantom 16GB GDDR6X PCI-Express Ek",
         "price": "31k"
@@ -238,6 +233,11 @@
         "where": "tebilon.com",
         "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC GDDR6X 256Bit NVIDIA ",
         "price": "34k"
+    },
+    {
+        "where": "amazon.com.tr",
+        "name": "MSI GeForce RTX 4080 16GB Ventus 3X OC Oyun Grafik Kartı - N",
+        "price": "36k"
     },
     {
         "where": "gaming.gen.tr",
