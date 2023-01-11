@@ -5,6 +5,11 @@
         "price": "50k"
     },
     {
+        "where": "vatanbilgisayar.com",
+        "name": "ASUS ROG-STRIX-RTX4090-O24G-WHITE OC 24GB GDDR6X 384Bit NVID",
+        "price": "56k"
+    },
+    {
         "where": "qp.com.tr",
         "name": "Asus TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X 384 ",
         "price": "49k"
@@ -13,11 +18,6 @@
         "where": "gaming.gen.tr",
         "name": "ASUS TUF GeForce RTX 4090 24GB OC GDDR6X 384 Bit Ekran Kartı",
         "price": "52k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "COLORFUL 24GB RTX4090 BATTLE AX EX-V GDDR6X 384bit HDMI-DP P",
-        "price": "43k"
     },
     {
         "where": "kuantumsanal.com",
@@ -70,6 +70,11 @@
         "price": "46k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "Gigabyte GeForce RTX 4090 WINDFORCE 24GB Ekran Kartı",
+        "price": "41k"
+    },
+    {
         "where": "vatanbilgisayar.com",
         "name": "GIGABYTE GeForce RTX 4090 WINDFORCE 24GB GDDR6X 384Bit NVIDI",
         "price": "51k"
@@ -110,11 +115,6 @@
         "price": "52k"
     },
     {
-        "where": "vatanbilgisayar.com",
-        "name": "MSI GeForce RTX 4090 GAMING X TRIO 24GB GDDR6X 384Bit NVIDIA",
-        "price": "49k"
-    },
-    {
         "where": "jumbum.com",
         "name": "MSI GEFORCE RTX 4090 SUPRIM X 24G - VIDEO CARD, NVIDIA, 24GB",
         "price": "46k"
@@ -133,11 +133,6 @@
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24G",
         "price": "43k"
-    },
-    {
-        "where": "vatanbilgisayar.com",
-        "name": "ZOTAC GeForce RTX 4090 AMP EXTREME AIRO 24GB GDDR6X 384Bit N",
-        "price": "49k"
     },
     {
         "where": "vatanbilgisayar.com",
