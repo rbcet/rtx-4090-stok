@@ -20,11 +20,6 @@
         "price": "36k"
     },
     {
-        "where": "itopya.com",
-        "name": "ASUS ROG STRIX GeForce RTX 4080 16GB GDDR6X 256 Bit Ekran Ka",
-        "price": "38k"
-    },
-    {
         "where": "vatanbilgisayar.com",
         "name": "ASUS ROG STRIX GeForce RTX 4080 GAMING OC 16GB GDDR6X 256Bit",
         "price": "39k"
@@ -105,11 +100,6 @@
         "price": "35k"
     },
     {
-        "where": "itopya.com",
-        "name": "GIGABYTE GeForce RTX 4080 AERO OC 16GB GDDR6X 256 Bit Ekran ",
-        "price": "38k"
-    },
-    {
         "where": "vatanbilgisayar.com",
         "name": "GIGABYTE GeForce RTX 4080 AERO OC 16GB GDDR6X 256Bit NVIDIA ",
         "price": "40k"
@@ -133,11 +123,6 @@
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekra",
         "price": "35k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekra",
-        "price": "38k"
     },
     {
         "where": "vatanbilgisayar.com",
@@ -180,11 +165,6 @@
         "price": "30k"
     },
     {
-        "where": "itopya.com",
-        "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256 Bit ",
-        "price": "35k"
-    },
-    {
         "where": "incehesap.com",
         "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256Bit D",
         "price": "35k"
@@ -210,11 +190,6 @@
         "price": "38k"
     },
     {
-        "where": "itopya.com",
-        "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256 Bit Ekran",
-        "price": "39k"
-    },
-    {
         "where": "incehesap.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit DX12 G",
         "price": "36k"
@@ -228,11 +203,6 @@
         "where": "qp.com.tr",
         "name": "MSI Geforce RTX 4080 16GB SUPRIM X 16GB GGDR6X 256 Bit Ekran",
         "price": "38k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256 Bit E",
-        "price": "36k"
     },
     {
         "where": "vatanbilgisayar.com",
