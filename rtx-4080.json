@@ -70,11 +70,6 @@
         "price": "40k"
     },
     {
-        "where": "hedefmarket.com",
-        "name": "ASUS TUF-RTX4080-O16G-GAMING GDDR6X HDMI DP 256Bit",
-        "price": "44k"
-    },
-    {
         "where": "jumbum.com",
         "name": "Gainward GeForce RTX 4080 Phantom 16GB GDDR6X PCI-Express Ek",
         "price": "31k"
@@ -150,11 +145,6 @@
         "price": "31k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X",
-        "price": "33k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X 3x DP 1.4a, HDMI",
         "price": "32k"
@@ -163,11 +153,6 @@
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X C40803-166XX-187",
         "price": "32k"
-    },
-    {
-        "where": "gamegaraj.com",
-        "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X",
-        "price": "31k"
     },
     {
         "where": "teknolojipazar.com",
@@ -280,11 +265,6 @@
         "price": "36k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "MSI RTX 4080 GAMING X TRIO 16GB GDDR6X 256B DX12 PCIE 4.0 X1",
-        "price": "34k"
-    },
-    {
         "where": "novabilgisayar.com",
         "name": "MSI RTX 4080 GAMING X TRIO, 16GB, GDDR6X, 256-bit Ekran Kart",
         "price": "34k"
@@ -310,19 +290,9 @@
         "price": "31k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X",
-        "price": "32k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X 3x DP, HDMI NED408",
         "price": "31k"
-    },
-    {
-        "where": "gamegaraj.com",
-        "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
-        "price": "33k"
     },
     {
         "where": "incehesap.com",
