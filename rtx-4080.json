@@ -80,9 +80,19 @@
         "price": "47k"
     },
     {
+        "where": "incehesap.com",
+        "name": "COLORFUL iGame GeForce RTX 4080 16GB Advanced OC-V GDDR6X 25",
+        "price": "44k"
+    },
+    {
         "where": "hedefmarket.com",
         "name": "COLORFUL iGame GeForce RTX 4080 16GB Vulcan OC-V",
         "price": "49k"
+    },
+    {
+        "where": "incehesap.com",
+        "name": "COLORFUL iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X 256B",
+        "price": "44k"
     },
     {
         "where": "jumbum.com",
@@ -153,11 +163,6 @@
         "where": "vatanbilgisayar.com",
         "name": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB GDDR6X 256Bit NVIDI",
         "price": "39k"
-    },
-    {
-        "where": "amazon.com.tr",
-        "name": "Gigabyte GIGA VGA 16GB RTX4080 AORUS Master 3xDP/3xHDMI AORU",
-        "price": "35k"
     },
     {
         "where": "inventus.com.tr",
