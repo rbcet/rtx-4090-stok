@@ -70,6 +70,11 @@
         "price": "34k"
     },
     {
+        "where": "teknolojipazar.com",
+        "name": "COLORFUL iGame GeForce RTX 4080 16GB Advanced OC-V",
+        "price": "32k"
+    },
+    {
         "where": "hedefmarket.com",
         "name": "COLORFUL iGame GeForce RTX 4080 16GB Advanced OC-V",
         "price": "47k"
@@ -78,6 +83,11 @@
         "where": "incehesap.com",
         "name": "COLORFUL iGame GeForce RTX 4080 16GB Advanced OC-V GDDR6X 25",
         "price": "44k"
+    },
+    {
+        "where": "teknolojipazar.com",
+        "name": "COLORFUL iGame GeForce RTX 4080 16GB Vulcan OC-V",
+        "price": "33k"
     },
     {
         "where": "hedefmarket.com",
