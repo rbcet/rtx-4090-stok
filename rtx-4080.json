@@ -145,6 +145,11 @@
         "price": "39k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "Gigabyte GIGA VGA 16GB RTX4080 AORUS Master 3xDP/3xHDMI AORU",
+        "price": "35k"
+    },
+    {
         "where": "inventus.com.tr",
         "name": "INNO3D GeForce RTX4080 ICHILL x3 RTX4080, PCI-E16 4.0, 16GB/",
         "price": "31k"
