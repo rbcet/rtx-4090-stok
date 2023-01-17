@@ -45,11 +45,6 @@
         "price": "40k"
     },
     {
-        "where": "novabilgisayar.com",
-        "name": "ASUS RTX 4080 TUF GAMING OC, 16GB, GDDR6X, 256-bit Ekran Kar",
-        "price": "33k"
-    },
-    {
         "where": "jumbum.com",
         "name": "ASUS TUF Gaming GeForce RTX 4080 - 16 GB Ekran Kartı",
         "price": "33k"
@@ -295,18 +290,8 @@
         "price": "34k"
     },
     {
-        "where": "novabilgisayar.com",
-        "name": "MSI RTX 4080 16GB SUPRIM X, 16GB, GDDR6X, 256-bit Ekran Kart",
-        "price": "36k"
-    },
-    {
         "where": "gamegaraj.com",
         "name": "MSI RTX 4080 GAMING X TRIO 16GB GDDR6X 256B DX12 PCIE 4.0 X1",
-        "price": "34k"
-    },
-    {
-        "where": "novabilgisayar.com",
-        "name": "MSI RTX 4080 GAMING X TRIO, 16GB, GDDR6X, 256-bit Ekran Kart",
         "price": "34k"
     },
     {
@@ -367,21 +352,6 @@
     {
         "where": "jumbum.com",
         "name": "Zotac GeForce RTX 4080 Trinity O16G 16GB GDDR6X 256 Bit Ekra",
-        "price": "32k"
-    },
-    {
-        "where": "novabilgisayar.com",
-        "name": "ZOTAC RTX 4080 AMP Extreme AIRO, 16GB, GDDR6X, 256 bit Ekran",
-        "price": "36k"
-    },
-    {
-        "where": "novabilgisayar.com",
-        "name": "ZOTAC RTX 4080 Trinity OC, 16GB, GDDR6X, 256 bit Ekran Kart�",
-        "price": "34k"
-    },
-    {
-        "where": "novabilgisayar.com",
-        "name": "ZOTAC RTX 4080 Trinity, 16GB, GDDR6X, 256 bit Ekran Kart� ZT",
         "price": "32k"
     },
     {
