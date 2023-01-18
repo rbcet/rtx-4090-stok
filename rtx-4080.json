@@ -1,23 +1,8 @@
 [
     {
-        "where": "gaming.gen.tr",
-        "name": "ASUS GeForce ROG STRIX RTX 4080 16GB GDDR6X 256 Bit Ekran Ka",
-        "price": "39k"
-    },
-    {
-        "where": "gaming.gen.tr",
-        "name": "ASUS GeForce ROG STRIX RTX 4080 16GB OC GDDR6X 256 Bit Ekran",
-        "price": "40k"
-    },
-    {
         "where": "sinerji.gen.tr",
         "name": "Asus GeForce RTX 4080 TUF Gaming O16G 16GB GDDR6X 256 Bit Ek",
         "price": "34k"
-    },
-    {
-        "where": "gaming.gen.tr",
-        "name": "ASUS GeForce TUF RTX 4080 16GB OC GDDR6X 256 Bit Ekran Kartı",
-        "price": "37k"
     },
     {
         "where": "vatanbilgisayar.com",
@@ -265,11 +250,6 @@
         "price": "34k"
     },
     {
-        "where": "gaming.gen.tr",
-        "name": "MSI GeForce RTX 4080 GAMING X TRIO 16 GB GDDR6X 256 Bit Ekra",
-        "price": "36k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "MSI GEFORCE RTX 4080 GAMING X TRIO 16G 16GB GDDR6X DP HDMI 2",
         "price": "34k"
@@ -283,11 +263,6 @@
         "where": "hedefmarket.com",
         "name": "MSI GEFORCE RTX 4080 SUPRIM X 16G 16GB GDDR6X HDMI DP 256Bit",
         "price": "41k"
-    },
-    {
-        "where": "gaming.gen.tr",
-        "name": "MSI GeForce RTX 4080 VENTUS 3X OC 16GB GDDR6X 256 Bit Ekran ",
-        "price": "35k"
     },
     {
         "where": "teknolojipazar.com",
