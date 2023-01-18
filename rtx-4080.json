@@ -55,11 +55,6 @@
         "price": "32k"
     },
     {
-        "where": "hedefmarket.com",
-        "name": "COLORFUL iGame GeForce RTX 4080 16GB Advanced OC-V",
-        "price": "36k"
-    },
-    {
         "where": "incehesap.com",
         "name": "Colorful iGame GeForce RTX 4080 16GB Advanced OC-V 16GB GDDR",
         "price": "30k"
@@ -68,11 +63,6 @@
         "where": "teknolojipazar.com",
         "name": "COLORFUL iGame GeForce RTX 4080 16GB Vulcan OC-V",
         "price": "33k"
-    },
-    {
-        "where": "hedefmarket.com",
-        "name": "COLORFUL iGame GeForce RTX 4080 16GB Vulcan OC-V",
-        "price": "38k"
     },
     {
         "where": "incehesap.com",
@@ -255,16 +245,6 @@
         "price": "34k"
     },
     {
-        "where": "hedefmarket.com",
-        "name": "MSI GEFORCE RTX 4080 GAMING X TRIO 16G 16GB GDDR6X DP HDMI 2",
-        "price": "39k"
-    },
-    {
-        "where": "hedefmarket.com",
-        "name": "MSI GEFORCE RTX 4080 SUPRIM X 16G 16GB GDDR6X HDMI DP 256Bit",
-        "price": "41k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "MSI RTX 4080 16GB GAMING X TRIO 16GB Geforce RTX4080 GDDR6X ",
         "price": "34k"
@@ -365,11 +345,6 @@
         "price": "36k"
     },
     {
-        "where": "hedefmarket.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810B-10P 16GB GDDR6X HDMI DP 256Bit",
-        "price": "40k"
-    },
-    {
         "where": "jumbum.com",
         "name": "ZOTAC RTX 4080 ZT-D40810B-10P 16GB GDDR6X HDMI DP 256Bit Ekr",
         "price": "34k"
@@ -378,11 +353,6 @@
         "where": "teknolojipazar.com",
         "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
         "price": "32k"
-    },
-    {
-        "where": "hedefmarket.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
-        "price": "36k"
     },
     {
         "where": "jumbum.com",
