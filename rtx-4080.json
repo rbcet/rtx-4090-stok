@@ -170,11 +170,6 @@
         "price": "38k"
     },
     {
-        "where": "amazon.com.tr",
-        "name": "Gigabyte GIGA VGA 16GB RTX4080 Eagle OC-16GD 3xDP/3xHDMI GeF",
-        "price": "28k"
-    },
-    {
         "where": "inventus.com.tr",
         "name": "INNO3D GeForce RTX4080 ICHILL x3 RTX4080, PCI-E16 4.0, 16GB/",
         "price": "31k"
@@ -255,6 +250,11 @@
         "price": "38k"
     },
     {
+        "where": "gamegaraj.com",
+        "name": "MSI GeForce RTX 4080 16GB SUPRIM X GDDR6X 256Bit",
+        "price": "35k"
+    },
+    {
         "where": "itopya.com",
         "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC 16GB GDDR6X 256 Bit E",
         "price": "36k"
@@ -318,6 +318,11 @@
         "where": "teknolojipazar.com",
         "name": "MSI RTX 4080 SUPRIM X 16G GDDR6X HDMI DP 256Bit",
         "price": "36k"
+    },
+    {
+        "where": "gamegaraj.com",
+        "name": "MSI RTX 4080 VENTUS 3X OC 16GB GDDR6X 256B DX12 PCIE 4.0 X16",
+        "price": "33k"
     },
     {
         "where": "teknolojipazar.com",
