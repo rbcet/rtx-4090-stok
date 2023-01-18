@@ -235,11 +235,6 @@
         "price": "38k"
     },
     {
-        "where": "incehesap.com",
-        "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit DX12 G",
-        "price": "35k"
-    },
-    {
         "where": "vatanbilgisayar.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit NVIDIA",
         "price": "38k"
@@ -283,11 +278,6 @@
         "where": "hedefmarket.com",
         "name": "MSI GEFORCE RTX 4080 GAMING X TRIO 16G 16GB GDDR6X DP HDMI 2",
         "price": "39k"
-    },
-    {
-        "where": "hedefmarket.com",
-        "name": "MSI GEFORCE RTX 4080 SUPRIM X 16G 16GB GDDR6X HDMI DP 256Bit",
-        "price": "41k"
     },
     {
         "where": "gaming.gen.tr",
