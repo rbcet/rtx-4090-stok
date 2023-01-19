@@ -255,6 +255,11 @@
         "price": "35k"
     },
     {
+        "where": "qp.com.tr",
+        "name": "MSI Geforce RTX 4080 16GB VENTUS 3X OC 16GB GGDR6X 256 Bit E",
+        "price": "34k"
+    },
+    {
         "where": "tebilon.com",
         "name": "MSI GeForce RTX 4080 16GB VENTUS 3X OC GDDR6X 256Bit NVIDIA ",
         "price": "34k"
