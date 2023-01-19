@@ -112,7 +112,7 @@
     {
         "where": "tebilon.com",
         "name": "GIGABYTE GeForce RTX 4080 16GB EAGLE 256Bit 16GB GDDR6X NVID",
-        "price": "34k"
+        "price": "33k"
     },
     {
         "where": "incehesap.com",
@@ -278,6 +278,11 @@
         "where": "hedefmarket.com",
         "name": "MSI GEFORCE RTX 4080 GAMING X TRIO 16G 16GB GDDR6X DP HDMI 2",
         "price": "39k"
+    },
+    {
+        "where": "hedefmarket.com",
+        "name": "MSI GEFORCE RTX 4080 SUPRIM X 16G 16GB GDDR6X HDMI DP 256Bit",
+        "price": "41k"
     },
     {
         "where": "gaming.gen.tr",
