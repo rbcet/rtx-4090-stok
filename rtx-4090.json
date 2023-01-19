@@ -26,8 +26,8 @@
     },
     {
         "where": "novabilgisayar.com",
-        "name": "COLORFUL RTX 4090 NB EX-V, 24GB, 384 Bit, GDDR6X Ekran Kart�",
-        "price": "47k"
+        "name": "GAINWARD RTX 4090 Phantom, 24GB, 384 Bit, GDDR6X Ekran Kart�",
+        "price": "43k"
     },
     {
         "where": "teknolojipazar.com",
@@ -108,6 +108,11 @@
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4090 GameRock OC RTX4090, PCI-E16 4.0, 24G",
         "price": "43k"
+    },
+    {
+        "where": "novabilgisayar.com",
+        "name": "PALIT RTX 4090 GAMEROCK, 24GB, 384 Bit, GDDR6X Ekran Kart�",
+        "price": "45k"
     },
     {
         "where": "vatanbilgisayar.com",
