@@ -25,11 +25,6 @@
         "price": "36k"
     },
     {
-        "where": "jumbum.com",
-        "name": "ASUS ROG -STRIX-RTX4080-O16G-WHITE NVIDIA GeForce RTX 4080 1",
-        "price": "36k"
-    },
-    {
         "where": "itopya.com",
         "name": "ASUS ROG STRIX GeForce RTX 4080 16GB GDDR6X 256 Bit Ekran Ka",
         "price": "38k"
@@ -47,11 +42,6 @@
     {
         "where": "novabilgisayar.com",
         "name": "ASUS RTX 4080 TUF GAMING OC, 16GB, GDDR6X, 256-bit Ekran Kar",
-        "price": "33k"
-    },
-    {
-        "where": "jumbum.com",
-        "name": "ASUS TUF Gaming GeForce RTX 4080 - 16 GB Ekran Kartı",
         "price": "33k"
     },
     {
@@ -97,11 +87,6 @@
     {
         "where": "incehesap.com",
         "name": "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V 16GB GDDR6X",
-        "price": "31k"
-    },
-    {
-        "where": "jumbum.com",
-        "name": "Gainward GeForce RTX 4080 Phantom 16GB GDDR6X PCI-Express Ek",
         "price": "31k"
     },
     {
@@ -365,11 +350,6 @@
         "price": "36k"
     },
     {
-        "where": "jumbum.com",
-        "name": "Zotac GeForce RTX 4080 Trinity O16G 16GB GDDR6X 256 Bit Ekra",
-        "price": "32k"
-    },
-    {
         "where": "novabilgisayar.com",
         "name": "ZOTAC RTX 4080 AMP Extreme AIRO, 16GB, GDDR6X, 256 bit Ekran",
         "price": "36k"
@@ -393,11 +373,6 @@
         "where": "hedefmarket.com",
         "name": "ZOTAC RTX 4080 ZT-D40810B-10P 16GB GDDR6X HDMI DP 256Bit",
         "price": "40k"
-    },
-    {
-        "where": "jumbum.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810B-10P 16GB GDDR6X HDMI DP 256Bit Ekr",
-        "price": "34k"
     },
     {
         "where": "teknolojipazar.com",
