@@ -320,6 +320,11 @@
         "price": "36k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "MSI VGA GEFORCE RTX 4080 16GB SUPRIM X RTX4080 16GB GDDR6X 2",
+        "price": "41k"
+    },
+    {
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16G",
         "price": "31k"
