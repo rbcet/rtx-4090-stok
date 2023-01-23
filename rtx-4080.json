@@ -315,6 +315,11 @@
         "price": "36k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "MSI VGA GEFORCE RTX 4080 16GB GAMING X TRIO RTX4080 16GB GDD",
+        "price": "35k"
+    },
+    {
         "where": "inventus.com.tr",
         "name": "PALIT GeForce RTX 4080 GameRock OC RTX4080, PCI-E16 4.0, 16G",
         "price": "31k"
