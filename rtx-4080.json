@@ -55,6 +55,11 @@
         "price": "34k"
     },
     {
+        "where": "teknobiyotik.com",
+        "name": "Asus TUF GAMING GeForce RTX 4080 OC Edition 16GB 256Bit GDDR",
+        "price": "34k"
+    },
+    {
         "where": "itopya.com",
         "name": "ASUS TUF GAMING GeForce RTX 4080 OC Edition 16GB GDDR6X 256 ",
         "price": "36k"
@@ -133,11 +138,6 @@
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256 Bit Ekran",
         "price": "34k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "GIGABYTE GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256 Bit Ekran",
-        "price": "33k"
     },
     {
         "where": "vatanbilgisayar.com",
