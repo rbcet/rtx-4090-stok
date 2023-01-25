@@ -30,11 +30,6 @@
         "price": "36k"
     },
     {
-        "where": "itopya.com",
-        "name": "ASUS ROG STRIX GeForce RTX 4080 16GB GDDR6X 256 Bit Ekran Ka",
-        "price": "38k"
-    },
-    {
         "where": "qp.com.tr",
         "name": "Asus ROG Strix GeForce RTX 4080 OC Edition 16GB GDDR6X 256 B",
         "price": "39k"
@@ -363,11 +358,6 @@
         "where": "novabilgisayar.com",
         "name": "ZOTAC RTX 4080 Trinity, 16GB, GDDR6X, 256 bit Ekran Kart� ZT",
         "price": "32k"
-    },
-    {
-        "where": "teknolojipazar.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810B-10P 16GB GDDR6X HDMI DP 256Bit",
-        "price": "36k"
     },
     {
         "where": "jumbum.com",
