@@ -32,7 +32,7 @@
     {
         "where": "qp.com.tr",
         "name": "Asus ROG Strix GeForce RTX 4080 OC Edition 16GB GDDR6X 256 B",
-        "price": "39k"
+        "price": "37k"
     },
     {
         "where": "novabilgisayar.com",
@@ -68,6 +68,16 @@
         "where": "incehesap.com",
         "name": "Colorful iGame GeForce RTX 4080 16GB Advanced OC-V 16GB GDDR",
         "price": "30k"
+    },
+    {
+        "where": "hedefmarket.com",
+        "name": "COLORFUL iGame GeForce RTX 4080 16GB GDDR6X 256Bit Advanced ",
+        "price": "36k"
+    },
+    {
+        "where": "hedefmarket.com",
+        "name": "COLORFUL iGame GeForce RTX 4080 16GB GDDR6X 256Bit Vulcan OC",
+        "price": "38k"
     },
     {
         "where": "teknolojipazar.com",
@@ -122,7 +132,7 @@
     {
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256 Bit Ekran",
-        "price": "34k"
+        "price": "35k"
     },
     {
         "where": "vatanbilgisayar.com",
@@ -132,7 +142,7 @@
     {
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 GAMING OC 16GB GDDR6X 256 Bit Ekra",
-        "price": "35k"
+        "price": "36k"
     },
     {
         "where": "itopya.com",
@@ -192,7 +202,7 @@
     {
         "where": "qp.com.tr",
         "name": "MSI Geforce RTX 4080 16GB GAMING X TRIO 16GB GGDR6X 256 Bit ",
-        "price": "36k"
+        "price": "35k"
     },
     {
         "where": "tebilon.com",
@@ -207,7 +217,7 @@
     {
         "where": "qp.com.tr",
         "name": "MSI Geforce RTX 4080 16GB SUPRIM X 16GB GGDR6X 256 Bit Ekran",
-        "price": "38k"
+        "price": "37k"
     },
     {
         "where": "itopya.com",
@@ -243,6 +253,11 @@
         "where": "teknolojipazar.com",
         "name": "MSI GEFORCE RTX 4080 GAMING X TRIO 16G 16GB GDDR6X DP HDMI 2",
         "price": "34k"
+    },
+    {
+        "where": "hedefmarket.com",
+        "name": "MSI GEFORCE RTX 4080 GAMING X TRIO 16G 16GB GDDR6X DP HDMI 2",
+        "price": "39k"
     },
     {
         "where": "gaming.gen.tr",
@@ -348,6 +363,11 @@
         "where": "teknolojipazar.com",
         "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
         "price": "32k"
+    },
+    {
+        "where": "hedefmarket.com",
+        "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
+        "price": "36k"
     },
     {
         "where": "teknolojipazar.com",
