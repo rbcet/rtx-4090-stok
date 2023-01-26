@@ -10,6 +10,11 @@
         "price": "37k"
     },
     {
+        "where": "sinerji.gen.tr",
+        "name": "Asus GeForce RTX 4080 TUF Gaming O16G 16GB GDDR6X 256 Bit Ek",
+        "price": "34k"
+    },
+    {
         "where": "amazon.com.tr",
         "name": "ASUS GeForce Rtx 4080 Tuf-Rtx4080-16G-v 16Gb Gddr 6X256 Bit ",
         "price": "38k"
@@ -205,6 +210,11 @@
         "price": "35k"
     },
     {
+        "where": "tebilon.com",
+        "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16G 256Bit GDDR6X NVIDIA ",
+        "price": "35k"
+    },
+    {
         "where": "vatanbilgisayar.com",
         "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256Bit NVIDIA",
         "price": "38k"
@@ -313,6 +323,11 @@
         "where": "gamegaraj.com",
         "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
         "price": "33k"
+    },
+    {
+        "where": "amazon.com.tr",
+        "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X (NED4080S19T2-1",
+        "price": "32k"
     },
     {
         "where": "incehesap.com",
