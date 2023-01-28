@@ -5,11 +5,6 @@
         "price": "37k"
     },
     {
-        "where": "sinerji.gen.tr",
-        "name": "Asus GeForce RTX 4080 TUF Gaming O16G 16GB GDDR6X 256 Bit Ek",
-        "price": "33k"
-    },
-    {
         "where": "amazon.com.tr",
         "name": "ASUS GeForce Rtx 4080 Tuf-Rtx4080-16G-v 16Gb Gddr 6X256 Bit ",
         "price": "37k"
@@ -68,6 +63,11 @@
         "where": "hedefmarket.com",
         "name": "COLORFUL iGame GeForce RTX 4080 16GB GDDR6X 256Bit Advanced ",
         "price": "36k"
+    },
+    {
+        "where": "incehesap.com",
+        "name": "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V 16GB GDDR6X",
+        "price": "31k"
     },
     {
         "where": "jumbum.com",
