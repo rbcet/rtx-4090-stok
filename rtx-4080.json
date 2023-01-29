@@ -70,6 +70,11 @@
         "price": "36k"
     },
     {
+        "where": "incehesap.com",
+        "name": "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V 16GB GDDR6X",
+        "price": "31k"
+    },
+    {
         "where": "jumbum.com",
         "name": "Gainward GeForce RTX 4080 Phantom 16GB GDDR6X PCI-Express Ek",
         "price": "31k"
@@ -187,7 +192,7 @@
     {
         "where": "vatanbilgisayar.com",
         "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256Bit N",
-        "price": "35k"
+        "price": "36k"
     },
     {
         "where": "qp.com.tr",
