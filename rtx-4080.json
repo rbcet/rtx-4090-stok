@@ -75,6 +75,11 @@
         "price": "36k"
     },
     {
+        "where": "hedefmarket.com",
+        "name": "COLORFUL iGame GeForce RTX 4080 16GB GDDR6X 256Bit Vulcan OC",
+        "price": "38k"
+    },
+    {
         "where": "jumbum.com",
         "name": "Gainward GeForce RTX 4080 Phantom 16GB GDDR6X PCI-Express Ek",
         "price": "31k"
@@ -363,11 +368,6 @@
         "where": "hedefmarket.com",
         "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
         "price": "36k"
-    },
-    {
-        "where": "jumbum.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit Ekr",
-        "price": "31k"
     },
     {
         "where": "teknolojipazar.com",
