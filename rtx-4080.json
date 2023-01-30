@@ -155,11 +155,6 @@
         "price": "31k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X",
-        "price": "33k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X 3x DP 1.4a, HDMI",
         "price": "32k"
@@ -168,11 +163,6 @@
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 ICHILL x3 16GB 256Bit GDDR6X C40803-166XX-187",
         "price": "32k"
-    },
-    {
-        "where": "gamegaraj.com",
-        "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X",
-        "price": "31k"
     },
     {
         "where": "teknolojipazar.com",
@@ -295,11 +285,6 @@
         "price": "34k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "MSI RTX 4080 VENTUS 3X OC 16GB GDDR6X 256B DX12 PCIE 4.0 X16",
-        "price": "32k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "MSI RTX4080 16GB GAMING X TRIO GDDR6X 256 Bit HDMI DP PCIe 1",
         "price": "36k"
@@ -315,19 +300,9 @@
         "price": "31k"
     },
     {
-        "where": "gamegaraj.com",
-        "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X",
-        "price": "32k"
-    },
-    {
         "where": "teknolojipazar.com",
         "name": "Palit RTX4080 GAMEROCK 16GB 256Bit GDDR6X 3x DP, HDMI NED408",
         "price": "31k"
-    },
-    {
-        "where": "gamegaraj.com",
-        "name": "Palit RTX4080 GAMEROCK OC 16GB 256Bit GDDR6X",
-        "price": "33k"
     },
     {
         "where": "vatanbilgisayar.com",
