@@ -65,11 +65,6 @@
         "price": "30k"
     },
     {
-        "where": "hedefmarket.com",
-        "name": "COLORFUL iGame GeForce RTX 4080 16GB GDDR6X 256Bit Advanced ",
-        "price": "36k"
-    },
-    {
         "where": "jumbum.com",
         "name": "Gainward GeForce RTX 4080 Phantom 16GB GDDR6X PCI-Express Ek",
         "price": "31k"
@@ -245,11 +240,6 @@
         "price": "34k"
     },
     {
-        "where": "hedefmarket.com",
-        "name": "MSI GEFORCE RTX 4080 GAMING X TRIO 16G 16GB GDDR6X DP HDMI 2",
-        "price": "39k"
-    },
-    {
         "where": "gaming.gen.tr",
         "name": "MSI GeForce RTX 4080 SUPRIM X 16GB GDDR6X 256 Bit Ekran Kart",
         "price": "37k"
@@ -338,11 +328,6 @@
         "where": "jumbum.com",
         "name": "ZOTAC RTX 4080 ZT-D40810B-10P 16GB GDDR6X HDMI DP 256Bit Ekr",
         "price": "34k"
-    },
-    {
-        "where": "hedefmarket.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
-        "price": "36k"
     },
     {
         "where": "jumbum.com",
