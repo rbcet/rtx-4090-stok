@@ -70,6 +70,11 @@
         "price": "43k"
     },
     {
+        "where": "amazon.com.tr",
+        "name": "KFA2 Grafik kartı GeForce RTX 4090 SG NVIDIA 24 GB GDDR6X",
+        "price": "46k"
+    },
+    {
         "where": "inventus.com.tr",
         "name": "MSI GeForce RTX 4090 SUPRIM X 24G RTX4090, PCI-E16 4.0, 24GB",
         "price": "46k"
