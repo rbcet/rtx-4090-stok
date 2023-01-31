@@ -30,6 +30,11 @@
         "price": "36k"
     },
     {
+        "where": "itopya.com",
+        "name": "ASUS ROG STRIX GeForce RTX 4080 16GB GDDR6X 256 Bit Ekran Ka",
+        "price": "38k"
+    },
+    {
         "where": "qp.com.tr",
         "name": "Asus ROG Strix GeForce RTX 4080 OC Edition 16GB GDDR6X 256 B",
         "price": "37k"
@@ -218,6 +223,11 @@
         "where": "inventus.com.tr",
         "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO RTX4080, PCI-E16 4.0",
         "price": "36k"
+    },
+    {
+        "where": "itopya.com",
+        "name": "MSI GeForce RTX 4080 16GB SUPRIM X 16GB GDDR6X 256 Bit Ekran",
+        "price": "39k"
     },
     {
         "where": "vatanbilgisayar.com",
