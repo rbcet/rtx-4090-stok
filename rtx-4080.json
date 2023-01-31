@@ -125,6 +125,11 @@
         "price": "38k"
     },
     {
+        "where": "jumbum.com",
+        "name": "Gigabyte GeForce RTX 4080 AERO OC Ekran Kartı",
+        "price": "31k"
+    },
+    {
         "where": "qp.com.tr",
         "name": "Gigabyte GeForce RTX 4080 EAGLE 16GB GDDR6X 256 Bit Ekran Ka",
         "price": "34k"
@@ -373,11 +378,6 @@
         "where": "novabilgisayar.com",
         "name": "ZOTAC RTX 4080 Trinity, 16GB, GDDR6X, 256 bit Ekran Kart� ZT",
         "price": "32k"
-    },
-    {
-        "where": "jumbum.com",
-        "name": "ZOTAC RTX 4080 ZT-D40810B-10P 16GB GDDR6X HDMI DP 256Bit Ekr",
-        "price": "34k"
     },
     {
         "where": "hedefmarket.com",
