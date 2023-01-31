@@ -25,11 +25,6 @@
         "price": "35k"
     },
     {
-        "where": "jumbum.com",
-        "name": "ASUS ROG -STRIX-RTX4080-O16G-WHITE NVIDIA GeForce RTX 4080 1",
-        "price": "36k"
-    },
-    {
         "where": "itopya.com",
         "name": "ASUS ROG STRIX GeForce RTX 4080 16GB GDDR6X 256 Bit Ekran Ka",
         "price": "38k"
@@ -388,6 +383,11 @@
         "where": "hedefmarket.com",
         "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit",
         "price": "36k"
+    },
+    {
+        "where": "jumbum.com",
+        "name": "ZOTAC RTX 4080 ZT-D40810D-10P 16GB GDDR6X HDMI DP 256Bit Ekr",
+        "price": "31k"
     },
     {
         "where": "teknolojipazar.com",
