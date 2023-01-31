@@ -85,6 +85,11 @@
         "price": "38k"
     },
     {
+        "where": "teknolojipazar.com",
+        "name": "COLORFUL iGame GeForce RTX 4080 16GB Vulcan OC-V",
+        "price": "33k"
+    },
+    {
         "where": "incehesap.com",
         "name": "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V 16GB GDDR6X",
         "price": "35k"
@@ -198,11 +203,6 @@
         "where": "teknolojipazar.com",
         "name": "Inno3D RTX4080 x3 16GB 256Bit GDDR6X N40803-166X-187049N",
         "price": "30k"
-    },
-    {
-        "where": "itopya.com",
-        "name": "MSI GeForce RTX 4080 16GB GAMING X TRIO 16GB GDDR6X 256 Bit ",
-        "price": "35k"
     },
     {
         "where": "incehesap.com",
